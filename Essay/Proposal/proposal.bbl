@@ -1,0 +1,122 @@
+\begin{thebibliography}{}
+
+\bibitem[Ashlock et~al., 2011a]{DBLP:journals/tciaig/AshlockLM11}
+Ashlock, D., Lee, C., and McGuinness, C. (2011a).
+\newblock Search-based procedural generation of maze-like levels.
+\newblock {\em IEEE Trans. Comput. Intellig. and AI in Games}, 3(3):260--273.
+
+\bibitem[Ashlock et~al., 2011b]{DBLP:journals/cim/AshlockLM11}
+Ashlock, D., Lee, C., and McGuinness, C. (2011b).
+\newblock Simultaneous dual level creation for games.
+\newblock {\em IEEE Comp. Int. Mag.}, 6(2):26--37.
+
+\bibitem[Compton and Mateas, 2006]{DBLP:conf/aiide/ComptonM06}
+Compton, K. and Mateas, M. (2006).
+\newblock Procedural level design for platform games.
+\newblock In Laird, J.~E. and Schaeffer, J., editors, {\em AIIDE}, pages
+  109--111. The AAAI Press.
+
+\bibitem[Greuter et~al., 2003]{DBLP:conf/graphite/GreuterPSL03}
+Greuter, S., Parker, J., Stewart, N., and Leach, G. (2003).
+\newblock Real-time procedural generation of `pseudo infinite' cities.
+\newblock In Adcock, M., Gwilt, I., and Lee, Y.~T., editors, {\em GRAPHITE},
+  pages 87--94. ACM.
+
+\bibitem[Krecklau and Kobbelt, 2011]{DBLP:journals/cgf/KrecklauK11}
+Krecklau, L. and Kobbelt, L. (2011).
+\newblock Procedural modeling of interconnected structures.
+\newblock {\em Comput. Graph. Forum}, 30(2):335--344.
+
+\bibitem[Mawhorter and Mateas, 2010]{DBLP:conf/cig/MawhorterM10}
+Mawhorter, P.~A. and Mateas, M. (2010).
+\newblock Procedural level generation using occupancy-regulated extension.
+\newblock In \cite{DBLP:conf/cig/2010}, pages 351--358.
+
+\bibitem[Mourato et~al., 2011]{DBLP:conf/ACMace/MouratoSB11}
+Mourato, F., dos Santos, M.~P., and Birra, F.~P. (2011).
+\newblock Automatic level generation for platform videogames using genetic
+  algorithms.
+\newblock In Rom{\~a}o, T., Correia, N., Inami, M., Kato, H., Prada, R.,
+  Terada, T., Dias, A.~E., and Chambel, T., editors, {\em Advances in Computer
+  Entertainment Technology}, page~8. ACM.
+
+\bibitem[Nitsche and Fitzpatrick, 2008]{Nitsche-CaseStudy}
+Nitsche, M. and Fitzpatrick, R. (2008).
+\newblock Designing procedural game spaces: A case study.
+
+\bibitem[Raffe et~al., 2011]{DBLP:conf/gecco/RaffeZL11}
+Raffe, W.~L., Zambetta, F., and Li, X. (2011).
+\newblock Evolving patch-based terrains for use in video games.
+\newblock In Krasnogor, N. and Lanzi, P.~L., editors, {\em GECCO}, pages
+  363--370. ACM.
+
+\bibitem[Shaker et~al., 2010]{DBLP:conf/aiide/ShakerYT10}
+Shaker, N., Yannakakis, G.~N., and Togelius, J. (2010).
+\newblock Towards automatic personalized content generation for platform games.
+\newblock In Youngblood, G.~M. and Bulitko, V., editors, {\em AIIDE}. The AAAI
+  Press.
+
+\bibitem[Smith et~al., 2008]{Smith:2008:FAP:1401843.1401858}
+Smith, G., Cha, M., and Whitehead, J. (2008).
+\newblock A framework for analysis of 2d platformer levels.
+\newblock In {\em Proceedings of the 2008 ACM SIGGRAPH symposium on Video
+  games}, Sandbox '08, pages 75--80, New York, NY, USA. ACM.
+
+\bibitem[Smith et~al., 2011]{DBLP:journals/tciaig/SmithWMTMC11}
+Smith, G., Whitehead, J., Mateas, M., Treanor, M., March, J., and Cha, M.
+  (2011).
+\newblock Launchpad: A rhythm-based level generator for 2-d platformers.
+\newblock {\em IEEE Trans. Comput. Intellig. and AI in Games}, 3(1):1--16.
+
+\bibitem[Sorenson and Pasquier, 2010]{DBLP:conf/evoW/SorensonP10}
+Sorenson, N. and Pasquier, P. (2010).
+\newblock Towards a generic framework for automated video game level creation.
+\newblock In Chio, C.~D., Cagnoni, S., Cotta, C., Ebner, M., Ek{\'a}rt, A.,
+  Esparcia-Alc{\'a}zar, A., Goh, C.~K., Guerv{\'o}s, J. J.~M., Neri, F.,
+  Preuss, M., Togelius, J., and Yannakakis, G.~N., editors, {\em
+  EvoApplications (1)}, volume 6024 of {\em Lecture Notes in Computer Science},
+  pages 131--140. Springer.
+
+\bibitem[Togelius et~al., 2010a]{DBLP:conf/cig/TogeliusPBWHY10}
+Togelius, J., Preuss, M., Beume, N., Wessing, S., Hagelb{\"a}ck, J., and
+  Yannakakis, G.~N. (2010a).
+\newblock Multiobjective exploration of the starcraft map space.
+\newblock In \cite{DBLP:conf/cig/2010}, pages 265--272.
+
+\bibitem[Togelius et~al., 2010b]{springerlink:10.1007/togelius1}
+Togelius, J., Yannakakis, G., Stanley, K., and Browne, C. (2010b).
+\newblock Search-based procedural content generation.
+\newblock In Di~Chio, C., Cagnoni, S., Cotta, C., Ebner, M., Ekárt, A.,
+  Esparcia-Alcazar, A., Goh, C.-K., Merelo, J., Neri, F., Preuß, M., Togelius,
+  J., and Yannakakis, G., editors, {\em Applications of Evolutionary
+  Computation}, volume 6024 of {\em Lecture Notes in Computer Science}, pages
+  141--150. Springer Berlin / Heidelberg.
+
+\bibitem[Togelius et~al., 2011]{DBLP:journals/tciaig/TogeliusYSB11}
+Togelius, J., Yannakakis, G.~N., Stanley, K.~O., and Browne, C. (2011).
+\newblock Search-based procedural content generation: A taxonomy and survey.
+\newblock {\em IEEE Trans. Comput. Intellig. and AI in Games}, 3(3):172--186.
+
+\bibitem[Tolani et~al., 2000]{Tolani2000353}
+Tolani, D., Goswami, A., and Badler, N.~I. (2000).
+\newblock Real-time inverse kinematics techniques for anthropomorphic limbs.
+\newblock {\em Graphical Models}, 62(5):353 -- 388.
+
+\bibitem[Walsh and Gade, 2010]{DBLP:conf/cec/WalshG10}
+Walsh, P. and Gade, P. (2010).
+\newblock Terrain generation using an interactive genetic algorithm.
+\newblock In {\em IEEE Congress on Evolutionary Computation}, pages 1--7. IEEE.
+
+\bibitem[Walsh and Gade, 2011]{DBLP:conf/cec/WalshG11}
+Walsh, P. and Gade, P. (2011).
+\newblock The use of an aesthetic measure for the evolution of fractal
+  landscapes.
+\newblock In {\em IEEE Congress on Evolutionary Computation}, pages 1613--1619.
+
+\bibitem[Yannakakis and Togelius, 2010]{DBLP:conf/cig/2010}
+Yannakakis, G.~N. and Togelius, J., editors (2010).
+\newblock {\em Proceedings of the 2010 IEEE Conference on Computational
+  Intelligence and Games, CIG 2010, Copenhagen, Denmark, 18-21 August, 2010}.
+  IEEE.
+
+\end{thebibliography}

@@ -1,0 +1,36 @@
+RandomCount:2
+{
+	UniformRandom
+	{
+	}
+	RandomTurner
+	{
+		RandomI:0
+		RandomF:0
+		LeftProb:0.15
+		RightProb:0.15
+	}
+}
+DiggerCount:3
+{
+	DFSDigger
+	{
+		RandomI:0
+	}
+	DeadEndDigger
+	{
+		Sparseness:45
+	}
+	RoomDigger
+	{
+		MinRoomSize:4
+		MaxRoomSize:5
+		RoomSizeRandomI:0
+		MinRoomPos:0
+		MaxRoomPos:25
+		RoomPosRandomI:0
+		MinNRooms:4
+		MaxNRooms:8
+		NRoomRandomI:0
+	}
+}

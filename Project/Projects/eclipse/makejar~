@@ -1,0 +1,46 @@
+package=
+jar=out.jar
+mainClass=Main
+
+# Get options:
+while getopts p:j:m:a o
+do    case "$o" in
+      p) src=src/$OPTARG
+         bin=bin/$OPTARG
+         package=$OPTARG;;
+      j) jar=$OPTARG;;
+      m) mainClass=$OPTARG;;
+      [?]) echo "Usage $0 -p PACKAGE_NAME -j JAR_NAME -m Main-Class"
+           exit 1;;
+      esac
+done
+mainClass=${package}.$mainClass
+
+# test if files exist:
+if ! test -e $src
+then
+        echo "$src not found"
+        exit 1
+fi
+if ! test -e $bin
+then
+        echo "$bin not found"
+        exit 1
+fi
+
+# Compile:
+echo "javac ${src}/*.java -d $bin"
+javac ${src}/*.java -d $bin
+
+# Make manifest and JAR:
+cd bin
+
+echo "Main-Class: $mainClass"
+echo Main-Class: $mainClass >manifest.txt
+echo "jar cvfm ../$jar manifest.txt ${package}/*.class"
+jar cvfm ../$jar manifest.txt ${package}/*.class
+rm manifest.txt
+
+cd ..
+
+exit 0

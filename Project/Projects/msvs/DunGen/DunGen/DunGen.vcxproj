@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\include\c++\Object.cpp" />
+    <ClCompile Include="..\..\..\..\lib\src\soil\image_DXT.c" />
+    <ClCompile Include="..\..\..\..\lib\src\soil\image_helper.c" />
+    <ClCompile Include="..\..\..\..\lib\src\soil\SOIL.c" />
+    <ClCompile Include="..\..\..\..\lib\src\soil\stb_image_aug.c" />
+    <ClCompile Include="..\..\..\..\src\Engine\Core\Application\ArgParser.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Core\Application\EngineApplication.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Core\File\File.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Core\Timing\Timing.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Camera\Camera.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\GraphicsContext\GraphicsContext.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Material\Material.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\Mesh.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\list.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\ObjLoader.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\objTester.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\obj_parser.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\string_extra.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Renderer\Renderer.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Renderer\RenderPipeline.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Texture\Texture.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Input\Input.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Input\Keyboard.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Input\Mouse.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Scene\SceneDynamic.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Scene\SceneObject.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Scene\SceneSpace.cpp" />
+    <ClCompile Include="..\..\..\..\src\Engine\Tools\Math.cpp" />
+    <ClCompile Include="..\..\..\..\src\GameSamples\Game1\Application\Game1App.cpp" />
+    <ClCompile Include="..\..\..\..\src\GameSamples\Game1\Application\Game1Logic.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\MazeCollider\MazeBVH.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\MazeCollider\MazeBVHNode.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\MazeCollider\MazeCollider.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MazeMesh.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\BasicMeshMaker.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\MeshMaker.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\VertexFactory.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\BinaryTree\BinaryTreeDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\DeadEnd\DeadEndDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Deco\DoorDecoDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Deco\WallDecoDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\DFS\DFSDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Digger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\ExternalMeshDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalEdge.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\SpanningTree.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Loop\LoopDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Prim\PrimDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Room\RoomDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Room\WeighedRoomDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\StartEnd\StartEndDigger.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\WeightFile.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Maze.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\MazeCell.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\MazeWall.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Parser\ProfileParser.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Random\DiggerDependant.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Random\Random.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Random\RandomElement.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Random\RandomTurner.cpp" />
+    <ClCompile Include="..\..\..\..\src\Generator\Random\UniformRandom.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Application\ArgParser.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Application\EngineApplication.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Application\GameLogic.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Core.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Core\File\File.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Timing\Timing.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Engine.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Camera\Camera.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Graphics.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\GraphicsContext\GraphicsContext.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Material\Material.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\Mesh.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\list.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\ObjLoader.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\obj_parser.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\string_extra.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\vertexTexcoords.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Renderer\Renderer.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Renderer\RenderPipeline.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Texture\Texture.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Input\Input.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Input\Keyboard.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Input\Mouse.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\Scene.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\SceneDynamic.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\SceneObject.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\SceneSpace.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Tools\Math.h" />
+    <ClInclude Include="..\..\..\..\src\Engine\Tools\Tools.h" />
+    <ClInclude Include="..\..\..\..\src\GameSamples\Game1\Application\Game1App.h" />
+    <ClInclude Include="..\..\..\..\src\GameSamples\Game1\Application\Game1Logic.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Generator.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\MazeCollider\MazeBVH.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\MazeCollider\MazeBVHNode.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\MazeCollider\MazeCollider.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MazeMesh.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\BasicMeshMaker.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\MeshMaker.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\VertexFactory.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\BinaryTree\BinaryTreeDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\DeadEnd\DeadEndDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Deco\DoorDecoDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Deco\WallDecoDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\DFS\DFSDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Digger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\ExternalMeshDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalEdge.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\SpanningTree.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Loop\LoopDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\PathLogger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Prim\PrimDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Room\RoomDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Room\WeighedRoomDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\StartEnd\StartEndDigger.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\WeightFile.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Maze.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\MazeCell.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\MazeWall.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Parser\ProfileParser.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Random\DiggerDependant.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Random\Random.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Random\RandomElement.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Random\RandomTurner.h" />
+    <ClInclude Include="..\..\..\..\src\Generator\Random\UniformRandom.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{C6D030E9-788E-4358-8BA5-79114BE19993}</ProjectGuid>
+    <RootNamespace>DunGen</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)\..\..\..\bin</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IntDir>$(SolutionDir)\Immediate\$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(SolutionDir)\..\..\..\src\;$(SolutionDir)\..\..\..\include\;$(SolutionDir)\..\..\..\include\c++;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opengl32.lib;glu32.lib;GLFW.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)\..\..\..\lib\win\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

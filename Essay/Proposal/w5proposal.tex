@@ -1,0 +1,56 @@
+\documentclass{ueacmpstyle}
+\usepackage[square]{natbib}
+\usepackage{enumerate}
+
+\begin{document}
+\title{Dissertation Proposal Outline: \\ Procedural Generation of Dungeons}
+\author{Olivier Legat \\ Supervisor: Prof. Andy Day}
+\maketitle
+
+\section{Introduction}
+Level design is a crucial factor in video games that has been around for as long games have. It consists of manually designing an environment by specifically defining every bit of detail and apply them directly into the game.
+
+The concept of procedurally generating a virtual environment, which has also been around for quite a while, is to write an algorithm which will design a level based on randomly generated numbers. Naturally, this programming-oriented method differs greatly from the traditional level design which is more revolved around art.
+
+Note that the procedural method can also be referred to as level designing, but to avoid ambiguity between the two approaches they will be referred to as {\em level designing} and {\em level generation} respectively.
+
+\subsection{Purpose and motivation}
+The programmatic approach presents various advantages over level designing. Although manually designing a level is far more flexible and easy than generating one, it often requires a lot time and skilled people. Once the level generator is complete it can potentially generate an infinite amount of levels in a very short time-span. Also, video games with a fixed level design offer far less re-playability than those with procedural level generation because the game can get boring and predictable after a while. Level generation can allow a completely different feel to the game every-time it's played.
+
+\subsection{Statement of problem}
+Level generation is often considered more challenging than level designing. Level generation is more than just generating terrain or buildings. A generator often needs to take other factors into account. Some examples include mission objectives, objects the players can interact with, spawning enemies, and so on. 
+
+These factors are often very specific to the type of game. Because of this, most existing generic algorithms for level generation do not take these factors into account. Additionally, another issue is that most algorithms are based around 2 dimensions for simplicity and not many 3D algorithms have been implemented.
+
+\subsection{Aim and objectives}
+When reading different articles I noticed that all the different methods were all focused on specific type of environment or on a specific game. In my dissertation, I will primarily focus on generating underground dungeons but I will insure to keep to code as generic as possible so that it can be used in a number of different games. I will also be attempting to implement a 3D-based algorithm since these appear to lack much in the industry.
+
+Overall, the summarised objectives are as follows:
+\begin{itemize}
+\item Develop an algorithm for random dungeon generation in 3-D.
+\item Take game features such as interact-able objects, enemies and so forth into consideration.
+\item Keeping the algorithm unspecific to a certain game. In other words, generalising it as much as possible.
+\end{itemize}
+
+\section{Essay structure}
+
+\begin{enumerate}
+\item {\bf Introduction:} A description of the purpose and aim of the dissertation in more depth than the outline.
+\item {\bf Short history:} In this section I will investigate which games have successfully implemented procedural generation levels and see how they can be improved upon.
+\item {\bf Examining algorithms:} Here I will examine how existing algorithms work and extract key elements from them.
+\item {\bf Evaluation:} After thorough research I will evaluate the different algorithms to come up with a solid guild-line on how to implement my own algorithm.
+\item {\bf Conclusion:} A summary of the most important features that I've discovered.
+\end{enumerate}
+
+\section{Literature review}
+I have found various article that explore a numerous amount of different methods to generate levels. Here are some examples of such methods:
+\begin{itemize}
+\item {\bf Occupancy-regulated} which focuses on ``assembling a level using chunks from a library" \citep{DBLP:conf/cig/MawhorterM10}.
+\item {\bf Rhythm-Based} algorithms, which are based on timing \citep{DBLP:journals/tciaig/SmithWMTMC11}.
+\item {\bf Tile-based} algorithms based on the concept that a level is modelled as a grid \citep{DBLP:conf/cec/McGuinnessA11}.
+\item {\bf Genetic algorithms}, which is ``a class of Evolutionary Computation techniques that mimics real life evolution" \citep{DBLP:conf/ACMace/MouratoSB11}.
+\end{itemize}
+\bibliographystyle{apalike}
+\bibliography{MyBib}
+
+\end{document}

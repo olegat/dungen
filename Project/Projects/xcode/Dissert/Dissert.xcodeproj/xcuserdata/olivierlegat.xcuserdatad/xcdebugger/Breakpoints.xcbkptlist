@@ -1,0 +1,2163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeMesh/MeshMaker/VertexFactory.cpp"
+         timestampString = "358521099.705023"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "156"
+         endingLineNumber = "156"
+         landmarkName = "VertexFactory::CreateCuboid(Array&lt;float&gt; &amp;vertices, Array&lt;int&gt; &amp;indices, Vector3 o, Quaternion r, Vector3 v, int dw, int dh, int dl, int mode)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeMesh/MeshMaker/VertexFactory.cpp"
+         timestampString = "358521114.031743"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "167"
+         endingLineNumber = "167"
+         landmarkName = "VertexFactory::CreateCuboid(Array&lt;float&gt; &amp;vertices, Array&lt;int&gt; &amp;indices, Vector3 o, Quaternion r, Vector3 v, int dw, int dh, int dl, int mode)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeMesh/MeshMaker/VertexFactory.cpp"
+         timestampString = "358521586.649388"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "168"
+         endingLineNumber = "168"
+         landmarkName = "VertexFactory::CreateCuboid(Array&lt;float&gt; &amp;vertices, Array&lt;int&gt; &amp;indices, Vector3 o, Quaternion r, Vector3 v, int dw, int dh, int dl, int mode)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeMesh/MeshMaker/VertexFactory.cpp"
+         timestampString = "358521710.464494"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "176"
+         endingLineNumber = "176"
+         landmarkName = "VertexFactory::CreateCuboid(Array&lt;float&gt; &amp;vertices, Array&lt;int&gt; &amp;indices, Vector3 o, Quaternion r, Vector3 v, int dw, int dh, int dl, int mode)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/UniformFeeder.cpp"
+         timestampString = "358548902.980792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "21"
+         endingLineNumber = "21"
+         landmarkName = "UniformFeeder::UniformFeeder(unsigned long seed)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "359831030.179792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "27"
+         endingLineNumber = "27"
+         landmarkName = "DFSDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "359831030.179792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "66"
+         endingLineNumber = "66"
+         landmarkName = "DFSDigger::backtrack()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "359831030.179792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "43"
+         endingLineNumber = "43"
+         landmarkName = "DFSDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1Logic.cpp"
+         timestampString = "365785236.4838"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "69"
+         endingLineNumber = "69"
+         landmarkName = "Game1Logic::setUpCube()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/CappedUniformFeederI.cpp"
+         timestampString = "358805904.623372"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "37"
+         endingLineNumber = "37"
+         landmarkName = "CappedUniformFeederI::nextInt()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/CappedUniformFeederI.cpp"
+         timestampString = "358805904.623372"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "25"
+         endingLineNumber = "25"
+         landmarkName = "CappedUniformFeederI::CappedUniformFeederI(int min, int max, unsigned long seed)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/CappedUniformFeederI.cpp"
+         timestampString = "358805904.623372"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "27"
+         endingLineNumber = "27"
+         landmarkName = "CappedUniformFeederI::CappedUniformFeederI(int min, int max, unsigned long seed)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "358856488.899951"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "17"
+         endingLineNumber = "17"
+         landmarkName = "DFSDigger::DFSDigger(Maze* maze, RandomI* feeder)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1Logic.cpp"
+         timestampString = "366492160.125752"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "125"
+         endingLineNumber = "125"
+         landmarkName = "Game1Logic::setUpMaze()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361710600.060483"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "62"
+         endingLineNumber = "62"
+         landmarkName = "MazeBVH::CreateBoundingVolumeHierarchy(BasicMeshMaker* maker)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361710600.060483"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "72"
+         endingLineNumber = "72"
+         landmarkName = "MazeBVH::CreateBoundingVolumeHierarchy(BasicMeshMaker* maker)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/Renderer/Renderer.cpp"
+         timestampString = "361718136.576675"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "91"
+         endingLineNumber = "91"
+         landmarkName = "Renderer::ProcessObjects()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/Renderer/Renderer.cpp"
+         timestampString = "361718136.576675"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "92"
+         endingLineNumber = "92"
+         landmarkName = "Renderer::ProcessObjects()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/Renderer/RenderPipeline.cpp"
+         timestampString = "359628774.270191"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "67"
+         endingLineNumber = "67"
+         landmarkName = "RenderPipeline::GetDynamicAABBs(Array&lt;MazeColliderAABB*&gt; *bbs)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Scene/SceneSpace.cpp"
+         timestampString = "359629801.921599"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "140"
+         endingLineNumber = "140"
+         landmarkName = "SceneSpace::checkCollisions(SceneDynamic* dyn, MazeBVHNode* node)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Scene/SceneSpace.cpp"
+         timestampString = "359629803.115622"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "146"
+         endingLineNumber = "146"
+         landmarkName = "SceneSpace::checkCollisions(SceneDynamic* dyn, MazeBVHNode* node)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Scene/SceneSpace.cpp"
+         timestampString = "359629804.835658"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "152"
+         endingLineNumber = "152"
+         landmarkName = "SceneSpace::checkCollisions(SceneDynamic* dyn, MazeBVHNode* node)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359707602.076647"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "146"
+         endingLineNumber = "146"
+         landmarkName = "RandomTurner::GetStraightLeftRight(MazeCell** straight, MazeCell** left, MazeCell** right)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359707610.912742"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "152"
+         endingLineNumber = "152"
+         landmarkName = "RandomTurner::GetStraightLeftRight(MazeCell** straight, MazeCell** left, MazeCell** right)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359707611.928662"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "158"
+         endingLineNumber = "158"
+         landmarkName = "RandomTurner::GetStraightLeftRight(MazeCell** straight, MazeCell** left, MazeCell** right)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359707613.107311"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "164"
+         endingLineNumber = "164"
+         landmarkName = "RandomTurner::GetStraightLeftRight(MazeCell** straight, MazeCell** left, MazeCell** right)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359707622.022827"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "169"
+         endingLineNumber = "169"
+         landmarkName = "RandomTurner::GetStraightLeftRight(MazeCell** straight, MazeCell** left, MazeCell** right)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359710105.788644"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "54"
+         endingLineNumber = "54"
+         landmarkName = "RandomTurner::nextInt()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359710112.007211"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "115"
+         endingLineNumber = "115"
+         landmarkName = "RandomTurner::nextInt()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359710729.188963"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "49"
+         endingLineNumber = "49"
+         landmarkName = "RandomTurner::nextInt()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "359831030.179792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "40"
+         endingLineNumber = "40"
+         landmarkName = "DFSDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "359831030.179792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "58"
+         endingLineNumber = "58"
+         landmarkName = "DFSDigger::getExpandingCell()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "359831030.179792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "61"
+         endingLineNumber = "61"
+         landmarkName = "DFSDigger::getExpandingCell()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/DFS/DFSDigger.cpp"
+         timestampString = "359831030.179792"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "26"
+         endingLineNumber = "26"
+         landmarkName = "DFSDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Digger.cpp"
+         timestampString = "359971325.734986"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "68"
+         endingLineNumber = "68"
+         landmarkName = "Digger::DigFully()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/Texture/Texture.cpp"
+         timestampString = "359831330.912083"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "55"
+         endingLineNumber = "55"
+         landmarkName = "Texture::CreateFromFile(File file)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/Renderer/Renderer.cpp"
+         timestampString = "361718136.576675"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "106"
+         endingLineNumber = "106"
+         landmarkName = "Renderer::RenderMesh(Mesh *mesh)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "247"
+         endingLineNumber = "247"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "283"
+         endingLineNumber = "283"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "288"
+         endingLineNumber = "288"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "73"
+         endingLineNumber = "73"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "65"
+         endingLineNumber = "65"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "67"
+         endingLineNumber = "67"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "87"
+         endingLineNumber = "87"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "101"
+         endingLineNumber = "101"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "53"
+         endingLineNumber = "53"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "77"
+         endingLineNumber = "77"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "121"
+         endingLineNumber = "121"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "140"
+         endingLineNumber = "140"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "124"
+         endingLineNumber = "124"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "129"
+         endingLineNumber = "129"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "137"
+         endingLineNumber = "137"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "144"
+         endingLineNumber = "144"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "205"
+         endingLineNumber = "205"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "214"
+         endingLineNumber = "214"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "221"
+         endingLineNumber = "221"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "244"
+         endingLineNumber = "244"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "208"
+         endingLineNumber = "208"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "211"
+         endingLineNumber = "211"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "220"
+         endingLineNumber = "220"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364679140.590933"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "277"
+         endingLineNumber = "277"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1Logic.cpp"
+         timestampString = "366492160.125752"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "103"
+         endingLineNumber = "103"
+         landmarkName = "Game1Logic::setUpMaze()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Digger.cpp"
+         timestampString = "359971498.149567"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "67"
+         endingLineNumber = "67"
+         landmarkName = "Digger::DigFully()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Digger.cpp"
+         timestampString = "359971535.035445"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "39"
+         endingLineNumber = "39"
+         landmarkName = "Digger::Init()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Digger.cpp"
+         timestampString = "359971592.22708"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "43"
+         endingLineNumber = "43"
+         landmarkName = "Digger::Init()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Digger.cpp"
+         timestampString = "359972300.980889"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "46"
+         endingLineNumber = "46"
+         landmarkName = "Digger::Init()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359972695.415565"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "132"
+         endingLineNumber = "132"
+         landmarkName = "RandomTurner::nextInt(int min, int max)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359972911.705523"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "124"
+         endingLineNumber = "124"
+         landmarkName = "RandomTurner::nextInt(int max)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Random/RandomTurner.cpp"
+         timestampString = "359972915.655755"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "120"
+         endingLineNumber = "120"
+         landmarkName = "RandomTurner::nextInt()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/GraphicsContext/GraphicsContext.cpp"
+         timestampString = "360153617.673905"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "91"
+         endingLineNumber = "91"
+         landmarkName = "GraphicsContext::Start(GLFWvidmode&amp; mode)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/GraphicsContext/GraphicsContext.cpp"
+         timestampString = "360153617.673905"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "77"
+         endingLineNumber = "77"
+         landmarkName = "GraphicsContext::SetDisplayMode(int w, int h, int r, int g, int b)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/GraphicsContext/GraphicsContext.cpp"
+         timestampString = "360153617.673905"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "90"
+         endingLineNumber = "90"
+         landmarkName = "GraphicsContext::Start(GLFWvidmode&amp; mode)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1App.cpp"
+         timestampString = "365697302.301003"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "107"
+         endingLineNumber = "107"
+         landmarkName = "Game1App::Run(int argc, const char** argv)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1App.cpp"
+         timestampString = "365697302.301003"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "94"
+         endingLineNumber = "94"
+         landmarkName = "Game1App::Run(int argc, const char** argv)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1App.cpp"
+         timestampString = "365697302.301003"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "68"
+         endingLineNumber = "68"
+         landmarkName = "Game1App::Run(int argc, const char** argv)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1App.cpp"
+         timestampString = "365697302.301003"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "70"
+         endingLineNumber = "70"
+         landmarkName = "Game1App::Run(int argc, const char** argv)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1App.cpp"
+         timestampString = "365697302.301003"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "81"
+         endingLineNumber = "81"
+         landmarkName = "Game1App::Run(int argc, const char** argv)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/BinaryTree/BinaryTreeDigger.cpp"
+         timestampString = "361719816.876559"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "32"
+         endingLineNumber = "32"
+         landmarkName = "BinaryTreeDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/BinaryTree/BinaryTreeDigger.cpp"
+         timestampString = "361719816.876559"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "34"
+         endingLineNumber = "34"
+         landmarkName = "BinaryTreeDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361543359.418216"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "103"
+         endingLineNumber = "103"
+         landmarkName = "WeighedRoomDigger::End()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361543359.418216"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "73"
+         endingLineNumber = "73"
+         landmarkName = "WeighedRoomDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361543359.418216"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "88"
+         endingLineNumber = "88"
+         landmarkName = "WeighedRoomDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361542821.441285"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "42"
+         endingLineNumber = "42"
+         landmarkName = "WeighedRoomDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361543359.418216"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "57"
+         endingLineNumber = "57"
+         landmarkName = "WeighedRoomDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361543359.418216"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "113"
+         endingLineNumber = "113"
+         landmarkName = "WeighedRoomDigger::touchesRoom(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361543359.418216"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "123"
+         endingLineNumber = "123"
+         landmarkName = "WeighedRoomDigger::touchesRoom(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Room/WeighedRoomDigger.cpp"
+         timestampString = "361543359.418216"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "120"
+         endingLineNumber = "120"
+         landmarkName = "WeighedRoomDigger::touchesRoom(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "132"
+         endingLineNumber = "132"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "154"
+         endingLineNumber = "154"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "196"
+         endingLineNumber = "196"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "190"
+         endingLineNumber = "190"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "184"
+         endingLineNumber = "184"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "178"
+         endingLineNumber = "178"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361716266.868748"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "200"
+         endingLineNumber = "200"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "133"
+         endingLineNumber = "133"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "135"
+         endingLineNumber = "135"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "136"
+         endingLineNumber = "136"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "138"
+         endingLineNumber = "138"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "139"
+         endingLineNumber = "139"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "141"
+         endingLineNumber = "141"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361715935.684731"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "142"
+         endingLineNumber = "142"
+         landmarkName = "MazeBVH::CreateBVHNode(BasicMeshMaker* maker, MazeCell* from, MazeCell* to)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361716266.868748"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "250"
+         endingLineNumber = "250"
+         landmarkName = "MazeBVH::CreateVWallLeaf(BasicMeshMaker* maker, int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/MazeCollider/MazeBVH.cpp"
+         timestampString = "361716266.868748"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "217"
+         endingLineNumber = "217"
+         landmarkName = "MazeBVH::CreateHWallLeaf(BasicMeshMaker* maker, int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/Renderer/Renderer.cpp"
+         timestampString = "361718136.576675"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "84"
+         endingLineNumber = "84"
+         landmarkName = "Renderer::ProcessObjects()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Kruskal/KruskalDigger.cpp"
+         timestampString = "362058435.673662"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "71"
+         endingLineNumber = "71"
+         landmarkName = "KruskalDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Kruskal/KruskalEdge.cpp"
+         timestampString = "362058154.952543"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "37"
+         endingLineNumber = "37"
+         landmarkName = "KruskalEdge::Shuffle(Array&lt;KruskalEdge&gt;&amp; edges, RandomI* shuffler, int nShuffles)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Kruskal/KruskalEdge.cpp"
+         timestampString = "362058176.571712"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "38"
+         endingLineNumber = "38"
+         landmarkName = "KruskalEdge::Shuffle(Array&lt;KruskalEdge&gt;&amp; edges, RandomI* shuffler, int nShuffles)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Kruskal/KruskalEdge.cpp"
+         timestampString = "362058214.476322"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "39"
+         endingLineNumber = "39"
+         landmarkName = "KruskalEdge::Shuffle(Array&lt;KruskalEdge&gt;&amp; edges, RandomI* shuffler, int nShuffles)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Kruskal/SpanningTree.cpp"
+         timestampString = "362058648.749299"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "47"
+         endingLineNumber = "47"
+         landmarkName = "SpanningTree::MergeWith(SpanningTree* otherTree, Maze* maze, MazeCell* cell1, MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Loop/LoopDigger.cpp"
+         timestampString = "364679982.56044"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "93"
+         endingLineNumber = "93"
+         landmarkName = "LoopDigger::GetCorridorOfDeadEnd(MazeCell* deadEnd)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Loop/LoopDigger.cpp"
+         timestampString = "364679625.906737"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "30"
+         endingLineNumber = "30"
+         landmarkName = "LoopDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Loop/LoopDigger.cpp"
+         timestampString = "364679982.56044"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "37"
+         endingLineNumber = "37"
+         landmarkName = "LoopDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Loop/LoopDigger.cpp"
+         timestampString = "364680062.599809"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "28"
+         endingLineNumber = "28"
+         landmarkName = "LoopDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "364680924.748549"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "97"
+         endingLineNumber = "97"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/WallDecoDigger.cpp"
+         timestampString = "365695030.836698"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "31"
+         endingLineNumber = "31"
+         landmarkName = "WallDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/WallDecoDigger.cpp"
+         timestampString = "365695032.168097"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "34"
+         endingLineNumber = "34"
+         landmarkName = "WallDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/WallDecoDigger.cpp"
+         timestampString = "365695032.884509"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "37"
+         endingLineNumber = "37"
+         landmarkName = "WallDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/WallDecoDigger.cpp"
+         timestampString = "365695033.794154"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "40"
+         endingLineNumber = "40"
+         landmarkName = "WallDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/WallDecoDigger.cpp"
+         timestampString = "365695057.625882"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "24"
+         endingLineNumber = "24"
+         landmarkName = "WallDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1Logic.cpp"
+         timestampString = "366492160.125752"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "104"
+         endingLineNumber = "104"
+         landmarkName = "Game1Logic::setUpMaze()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "365702017.274754"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "364"
+         endingLineNumber = "364"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "365695245.697365"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "313"
+         endingLineNumber = "313"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "365695259.533492"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "332"
+         endingLineNumber = "332"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "365695336.619135"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "110"
+         endingLineNumber = "110"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Parser/ProfileParser.cpp"
+         timestampString = "365702017.274754"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "359"
+         endingLineNumber = "359"
+         landmarkName = "ProfileParser::ParseProfile(String filename, long seed, Maze* maze)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/WeightFile.cpp"
+         timestampString = "365695455.965059"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "25"
+         endingLineNumber = "25"
+         landmarkName = "WeightFile::CreateFromFile(String weightFile, RandomI* randi)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "42"
+         endingLineNumber = "42"
+         landmarkName = "DoorDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "45"
+         endingLineNumber = "45"
+         landmarkName = "DoorDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "119"
+         endingLineNumber = "119"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "123"
+         endingLineNumber = "123"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "127"
+         endingLineNumber = "127"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "135"
+         endingLineNumber = "135"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "131"
+         endingLineNumber = "131"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "143"
+         endingLineNumber = "143"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "139"
+         endingLineNumber = "139"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702874.566449"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "248"
+         endingLineNumber = "248"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702876.369081"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "254"
+         endingLineNumber = "254"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702877.785613"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "260"
+         endingLineNumber = "260"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702878.971011"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "266"
+         endingLineNumber = "266"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702880.910643"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "276"
+         endingLineNumber = "276"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702882.436848"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "283"
+         endingLineNumber = "283"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702884.320713"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "294"
+         endingLineNumber = "294"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702885.718869"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "301"
+         endingLineNumber = "301"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702892.095166"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "309"
+         endingLineNumber = "309"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Maze.cpp"
+         timestampString = "365702893.859014"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "313"
+         endingLineNumber = "313"
+         landmarkName = "Maze::IsRoom(const MazeCell* cell1, const MazeCell* cell2)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1Logic.cpp"
+         timestampString = "366492160.125752"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "207"
+         endingLineNumber = "207"
+         landmarkName = "Game1Logic::UpdatePlaying()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/WeightFile.cpp"
+         timestampString = "365787928.737367"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "11"
+         endingLineNumber = "11"
+         landmarkName = "WeightFile::CreateFromFile(String weightFile, RandomI* randi)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Engine/Graphics/Mesh/Mesh.cpp"
+         timestampString = "365789823.962881"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "182"
+         endingLineNumber = "182"
+         landmarkName = "Mesh::CreateFromOBJFile(String filename)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "59"
+         endingLineNumber = "59"
+         landmarkName = "DoorDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "62"
+         endingLineNumber = "62"
+         landmarkName = "DoorDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "43"
+         endingLineNumber = "43"
+         landmarkName = "DoorDecoDigger::Step()"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "92"
+         endingLineNumber = "92"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/Generator/Maze/Digger/Deco/DoorDecoDigger.cpp"
+         timestampString = "365862812.028396"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "151"
+         endingLineNumber = "151"
+         landmarkName = "DoorDecoDigger::canBeHDoor(int x, int z)"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/src/GameSamples/Game1/Application/Game1Logic.cpp"
+         timestampString = "366492160.125752"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "107"
+         endingLineNumber = "107"
+         landmarkName = "Game1Logic::setUpMaze()"
+         landmarkType = "5">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>

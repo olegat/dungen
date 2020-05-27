@@ -1,0 +1,680 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.10.25)  14 AUG 2012 12:30
+entering extended mode
+ %&-line parsing enabled.
+**main
+(./main.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ba
+sque, danish, dutch, finnish, french, german, ngerman, swissgerman, hungarian, 
+italian, bokmal, nynorsk, polish, portuguese, spanish, swedish, loaded.
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/07/13 v5.5 Page Geometry
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2009/11/07 8.31a (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count91
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+\Gread@gobject=\count92
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count93
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count94
+\lst@currlwidth=\dimen111
+\lst@column=\count95
+\lst@pos=\count96
+\lst@lostspace=\dimen112
+\lst@width=\dimen113
+\lst@newlines=\count97
+\lst@lineno=\count98
+\lst@maxwidth=\dimen114
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count99
+\lst@skipnumbers=\count100
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks17
+\float@box=\box28
+\@float@everytoks=\toks18
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
+)
+\c@ContinuedFloat=\count102
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks19
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/ltxmisc/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen123
+))
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen124
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen125
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip10
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks21
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks22
+\eqnshift@=\dimen126
+\alignsep@=\dimen127
+\tagshift@=\dimen128
+\tagwidth@=\dimen129
+\totwidth@=\dimen130
+\lineht@=\dimen131
+\@envbody=\toks23
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2010/01/12 v0.4j Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count115
+\calc@Bcount=\count116
+\calc@Adimen=\dimen132
+\calc@Bdimen=\dimen133
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count117
+\calc@Cskip=\skip50
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/06/08 v2.0b eso-pic (RN)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2010/01/12 v0.4j Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box32
+\AM@toc@title=\toks25
+\c@AM@survey=\count118
+\AM@templatesizebox=\box33
+)
+(./main.aux (./intro.aux) (./pcgtech.aux) (./numbergen.aux) (./dungen.aux)
+(./meshCollider.aux) (./software.aux) (./conclusion.aux) (./appendix.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.12054pt, 432.48183pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=432.48183pt
+* \textheight=731.23584pt
+* \oddsidemargin=35.85056pt
+* \evensidemargin=35.85056pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen134
+\scratchbox=\box34
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen135
+\MPnumerator=\count123
+\everyMPtoPDFconversion=\toks27
+)
+\c@lstlisting=\count124
+ (/usr/local/texlive/2010basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box35
+
+<CoverSheet.pdf, id=3, page=1, 597.52231pt x 845.0471pt>
+File: CoverSheet.pdf Graphic file (type pdf)
+
+<use CoverSheet.pdf, page 1>
+File: CoverSheet.pdf Graphic file (type pdf)
+ <use CoverSheet.pdf, page 1>
+File: CoverSheet.pdf Graphic file (type pdf)
+
+<use CoverSheet.pdf, page 1>
+File: CoverSheet.pdf Graphic file (type pdf)
+ <use CoverSheet.pdf, page 1>
+File: CoverSheet.pdf Graphic file (type pdf)
+
+<use CoverSheet.pdf, page 1> [1
+
+ <./CoverSheet.pdf>] [1{/usr/local/texlive/2010basic/texmf-var/fonts/map/pdftex
+/updmap/pdftex.map}] [1
+
+] (./main.toc [2
+
+])
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+[3]
+\openout2 = `intro.aux'.
+
+ (./intro.tex
+Chapter 1.
+<images/Rogue0.png, id=49, 642.4pt x 401.5pt>
+File: images/Rogue0.png Graphic file (type png)
+ <use images/Rogue0.png> [1
+
+
+]
+<images/nethack.png, id=54, 642.4pt x 401.5pt>
+File: images/nethack.png Graphic file (type png)
+ <use images/nethack.png>
+<images/moria.png, id=55, 642.4pt x 401.5pt>
+File: images/moria.png Graphic file (type png)
+ <use images/moria.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./images/Rogue0.png (PNG copy)> <./images/nethack.png (PNG copy)>]
+<images/minecraft.png, id=61, 1710.39pt x 963.6pt>
+File: images/minecraft.png Graphic file (type png)
+ <use images/minecraft.png>
+<images/terraria.png, id=63, 1206.00563pt x 453.19313pt>
+File: images/terraria.png Graphic file (type png)
+
+<use images/terraria.png> [3 <./images/moria.png (PNG copy)> <./images/minecraf
+t.png>] [4 <./images/terraria.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 87.
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 87.
+) [5]
+\openout2 = `pcgtech.aux'.
+
+
+(./pcgtech.tex
+Chapter 2.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+<images/genetic-flowchart.png, id=78, 681.54625pt x 773.89125pt>
+File: images/genetic-flowchart.png Graphic file (type png)
+
+<use images/genetic-flowchart.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6
+
+
+
+] [7 <./images/genetic-flowchart.png (PNG copy)>] [8]
+<images/ashlockMazes.png, id=90, 728.7225pt x 785.93625pt>
+File: images/ashlockMazes.png Graphic file (type png)
+
+<use images/ashlockMazes.png>
+<images/rhythm.png, id=91, 589.20125pt x 569.12625pt>
+File: images/rhythm.png Graphic file (type png)
+ <use images/rhythm.png>
+[9 <./images/ashlockMazes.png (PNG copy)> <./images/rhythm.png (PNG copy)>]
+<images/mario.png, id=95, 211.0284pt x 211.0284pt>
+File: images/mario.png Graphic file (type png)
+ <use images/mario.png>
+[10 <./images/mario.png>]
+<images/floorplan.png, id=100, 1400.23125pt x 572.1375pt>
+File: images/floorplan.png Graphic file (type png)
+
+<use images/floorplan.png> [11 <./images/floorplan.png (PNG copy)>]) [12]
+\openout2 = `numbergen.aux'.
+
+
+(./numbergen.tex
+Chapter 3.
+[13
+
+
+
+] [14] [15] [16] [17]) [18]
+\openout2 = `dungen.aux'.
+
+ (./dungen.tex
+Chapter 4.
+[19
+
+
+
+] [20] <images/graph-grid.png, id=135, 824.07875pt x 509.905pt>
+File: images/graph-grid.png Graphic file (type png)
+
+<use images/graph-grid.png> [21 <./images/graph-grid.png (PNG copy)>]
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+[22]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+ [23] [24] [25] <images/mazes.png, id=153, 1004.75375pt x 478.78876pt>
+File: images/mazes.png Graphic file (type png)
+
+<use images/mazes.png> [26 <./images/mazes.png (PNG copy)>]
+<images/abcd_sparseness.png, id=158, 372.39125pt x 135.50626pt>
+File: images/abcd_sparseness.png Graphic file (type png)
+
+<use images/abcd_sparseness.png>
+<images/DeadEndDigger-sparse2.png, id=159, 987.69pt x 369.38pt>
+File: images/DeadEndDigger-sparse2.png Graphic file (type png)
+
+<use images/DeadEndDigger-sparse2.png> [27 <./images/abcd_sparseness.png (PNG c
+opy)> <./images/DeadEndDigger-sparse2.png (PNG copy)>]
+<images/adding_loops.png, id=163, 932.48375pt x 287.0725pt>
+File: images/adding_loops.png Graphic file (type png)
+
+<use images/adding_loops.png>
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 257.
+
+
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 257.
+ [28 <./images/adding_loops.png (PNG copy)>]
+<images/phases-mixed.png, id=168, 620.3175pt x 459.7175pt>
+File: images/phases-mixed.png Graphic file (type png)
+
+<use images/phases-mixed.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [29] [30 <./images/phases-mixed.png (PNG copy)>]
+\openout2 = `meshCollider.aux'.
+
+ (./meshCollider.tex
+Chapter 5.
+<images/what_is_a_plane.png, id=175, 383.4325pt x 185.69376pt>
+File: images/what_is_a_plane.png Graphic file (type png)
+
+<use images/what_is_a_plane.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31
+
+
+
+] [32 <./images/what_is_a_plane.png (PNG copy)>] [33] [34] [35]
+<images/bvh_maze.png, id=195, 980.66376pt x 450.68375pt>
+File: images/bvh_maze.png Graphic file (type png)
+
+<use images/bvh_maze.png> [36 <./images/bvh_maze.png (PNG copy)>]) [37]
+\openout2 = `software.aux'.
+
+
+(./software.tex
+Chapter 6.
+[38
+
+
+
+] [39] [40] [41]
+<images/makeDungeon4steps.png, id=215, 713.66624pt x 152.57pt>
+File: images/makeDungeon4steps.png Graphic file (type png)
+
+<use images/makeDungeon4steps.png>
+(/usr/local/texlive/2010basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+[42 <./images/makeDungeon4steps.png (PNG copy)>] [43]
+<images/launcherAndDungen.png, id=223, 460.72125pt x 179.67125pt>
+File: images/launcherAndDungen.png Graphic file (type png)
+
+<use images/launcherAndDungen.png>) [44 <./images/launcherAndDungen.png (PNG co
+py)>]
+\openout2 = `conclusion.aux'.
+
+ (./conclusion.tex
+Chapter 7.
+[45
+
+
+
+]) [46] (./main.bbl [47
+
+
+] [48]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--212
+[]\OT1/cmr/m/n/10 Pullen, W. D. (2011).  \OT1/cmr/m/it/10 Think Labyrinth - Maz
+e Al-go-rithms\OT1/cmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 207--212
+\OT1/cmr/m/n/10 http://www.astrolog.org/labyrnth/algrithm.htm (Up-dated on the 
+24$[]$ of Jan-uary 2011,
+ []
+
+[49]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+) [50]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex
+Appendix A.
+<images/dungeon02.png, id=247, 640.3925pt x 480.79625pt>
+File: images/dungeon02.png Graphic file (type png)
+
+<use images/dungeon02.png>
+<images/dungeon03.png, id=248, 641.39626pt x 480.79625pt>
+File: images/dungeon03.png Graphic file (type png)
+
+<use images/dungeon03.png>
+<images/dungeon04.png, id=249, 640.3925pt x 481.8pt>
+File: images/dungeon04.png Graphic file (type png)
+
+<use images/dungeon04.png>
+<images/dungeon05.png, id=250, 639.38875pt x 483.8075pt>
+File: images/dungeon05.png Graphic file (type png)
+
+<use images/dungeon05.png>
+<images/bvh-depths.png, id=251, 922.44624pt x 708.6475pt>
+File: images/bvh-depths.png Graphic file (type png)
+
+<use images/bvh-depths.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/launcher00.png, id=252, 602.25pt x 446.66875pt>
+File: images/launcher00.png Graphic file (type png)
+
+<use images/launcher00.png>
+<images/launcher01.png, id=253, 628.3475pt x 473.77pt>
+File: images/launcher01.png Graphic file (type png)
+
+<use images/launcher01.png>
+<images/launcher02.png, id=254, 628.3475pt x 473.77pt>
+File: images/launcher02.png Graphic file (type png)
+
+<use images/launcher02.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[51
+
+
+ <./images/dungeon02.png (PNG copy)> <./images/dungeon03.png (PNG copy)> <./ima
+ges/dungeon04.png (PNG copy)> <./images/dungeon05.png (PNG copy)>] [52 <./image
+s/bvh-depths.png (PNG copy)> <./images/launcher00.png> <./images/launcher01.png
+> <./images/launcher02.png>]
+Appendix B.
+<images/uml_generator0.png, id=264, 681.54625pt x 410.53375pt>
+File: images/uml_generator0.png Graphic file (type png)
+
+<use images/uml_generator0.png> [53
+
+ <./images/uml_generator0.png (PNG copy)>]
+<images/uml_engine0.png, id=268, 502.87875pt x 520.94624pt>
+File: images/uml_engine0.png Graphic file (type png)
+
+<use images/uml_engine0.png> [54 <./images/uml_engine0.png (PNG copy)>]
+<images/uml_launcher0.png, id=272, 652.4375pt x 519.9425pt>
+File: images/uml_launcher0.png Graphic file (type png)
+
+<use images/uml_launcher0.png> [55 <./images/uml_launcher0.png (PNG copy)>]
+[56] [57] [58] [59]
+Missing character: There is no Â in font cmtt8!
+Missing character: There is no ° in font cmtt8!
+Missing character: There is no Â in font cmtt8!
+Missing character: There is no ° in font cmtt8!
+ [60]
+Missing character: There is no Â in font cmtt8!
+Missing character: There is no ° in font cmtt8!
+Missing character: There is no Â in font cmtt8!
+Missing character: There is no ° in font cmtt8!
+Missing character: There is no Â in font cmtt8!
+Missing character: There is no ° in font cmtt8!
+ [61] [62] [63] [64]) [65] (./main.aux (./intro.aux)
+(./pcgtech.aux) (./numbergen.aux) (./dungen.aux) (./meshCollider.aux)
+(./software.aux) (./conclusion.aux) (./appendix.aux)) ) 
+Here is how much of TeX's memory you used:
+ 7114 strings out of 494749
+ 105637 string characters out of 3170618
+ 860391 words of memory out of 3000000
+ 10156 multiletter control sequences out of 15000+200000
+ 11703 words of font info for 43 fonts, out of 3000000 for 9000
+ 166 hyphenation exceptions out of 8191
+ 37i,18n,51p,1089b,1539s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2010
+basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/
+2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
+ive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/
+texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/lo
+cal/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></
+usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
+fb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
+.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr9.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy9.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmti10.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2010basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmtt8.pfb>
+Output written on main.pdf (70 pages, 6369061 bytes).
+PDF statistics:
+ 365 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+

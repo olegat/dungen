@@ -1,0 +1,2 @@
+1:data/deco/arch/arch.obj
+3:data/deco/archDoorway/archDoorway.obj

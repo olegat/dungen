@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: pcgtech.aux
+A level-1 auxiliary file: numbergen.aux
+A level-1 auxiliary file: dungen.aux
+A level-1 auxiliary file: meshCollider.aux
+A level-1 auxiliary file: software.aux
+A level-1 auxiliary file: conclusion.aux
+The style file: apalike.bst
+A level-1 auxiliary file: appendix.aux
+Database file #1: MyBib.bib
+Warning--empty journal in Nitsche-CaseStudy
+Warning--there's a number but no volume in Prim
+You've used 53 entries,
+            1935 wiz_defined-function locations,
+            857 strings with 16249 characters,
+and the built_in function-call counts, 24169 in all, are:
+= -- 2370
+> -- 911
+< -- 62
++ -- 309
+- -- 291
+* -- 1884
+:= -- 3923
+add.period$ -- 173
+call.type$ -- 53
+change.case$ -- 380
+chr.to.int$ -- 51
+cite$ -- 55
+duplicate$ -- 1071
+empty$ -- 1787
+format.name$ -- 378
+if$ -- 5095
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 49
+newline$ -- 266
+num.names$ -- 178
+pop$ -- 406
+preamble$ -- 1
+purify$ -- 388
+quote$ -- 0
+skip$ -- 855
+stack$ -- 0
+substring$ -- 1699
+swap$ -- 300
+text.length$ -- 29
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 314
+warning$ -- 2
+while$ -- 185
+width$ -- 0
+write$ -- 701
+(There were 2 warnings)

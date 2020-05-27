@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="45" version="2.0">
+<workbenchAdvisor/>
+<window height="862" maximized="true" width="1392" x="0" y="23">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="189"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="186" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.instantiations.designer.gwt.actionset" itemType="typeToolBarContribution" x="54" y="22"/>
+<coolItem id="com.swtdesigner.actionset" itemType="typeToolBarContribution" x="40" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="100" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="62" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="120" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wb.core.guiEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.instantiations.designer.core.guiEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1337944081523" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="8"/>
+<part id="5"/>
+<part id="7"/>
+<part id="1"/>
+<part id="2"/>
+<part id="4"/>
+<part id="3"/>
+<part id="9"/>
+<part id="10"/>
+<part id="12"/>
+<part id="6"/>
+<part id="11"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.instantiations.designer.core.guiEditor" name="LaunchFrame.java" partName="LaunchFrame.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/LaunchFrame.java" title="LaunchFrame.java" tooltip="Launcher/src/launcher/LaunchFrame.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/LaunchFrame.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="21927" selectionTopPixel="7260"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OutputTabListener.java" partName="OutputTabListener.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/OutputTabListener.java" title="OutputTabListener.java" tooltip="Launcher/src/launcher/OutputTabListener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/OutputTabListener.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="606" selectionTopPixel="179"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FooterListener.java" partName="FooterListener.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/FooterListener.java" title="FooterListener.java" tooltip="Launcher/src/launcher/FooterListener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/FooterListener.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="514" selectionTopPixel="149"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LaunchFrameListener.java" partName="LaunchFrameListener.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/LaunchFrameListener.java" title="LaunchFrameListener.java" tooltip="Launcher/src/launcher/LaunchFrameListener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/LaunchFrameListener.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="398" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileOutputManager.java" partName="FileOutputManager.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/FileOutputManager.java" title="FileOutputManager.java" tooltip="Launcher/src/launcher/FileOutputManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/FileOutputManager.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="DFSDialog.java" partName="DFSDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/DFSDialog.java" title="DFSDialog.java" tooltip="Launcher/src/launcher/DFSDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/DFSDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="354" selectionTopPixel="328"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GeneratorTabListener.java" partName="GeneratorTabListener.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/GeneratorTabListener.java" title="GeneratorTabListener.java" tooltip="Launcher/src/launcher/GeneratorTabListener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/GeneratorTabListener.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6212" selectionTopPixel="3194"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="DeadEndDialog.java" partName="DeadEndDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/DeadEndDialog.java" title="DeadEndDialog.java" tooltip="Launcher/src/launcher/DeadEndDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/DeadEndDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1790" selectionTopPixel="148"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="DungenDialog.java" partName="DungenDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/DungenDialog.java" title="DungenDialog.java" tooltip="Launcher/src/launcher/DungenDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/DungenDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2620" selectionTopPixel="954"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="RoomDialog.java" partName="RoomDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/RoomDialog.java" title="RoomDialog.java" tooltip="Launcher/src/launcher/RoomDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/RoomDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10633" selectionTopPixel="3654"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UniformDialog.java" partName="UniformDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/UniformDialog.java" title="UniformDialog.java" tooltip="Launcher/src/launcher/UniformDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/UniformDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="838" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomComboBoxUpdater.java" partName="RandomComboBoxUpdater.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/RandomComboBoxUpdater.java" title="RandomComboBoxUpdater.java" tooltip="Launcher/src/launcher/RandomComboBoxUpdater.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/RandomComboBoxUpdater.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="266" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="TurnerDialog.java" partName="TurnerDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/TurnerDialog.java" title="TurnerDialog.java" tooltip="Launcher/src/launcher/TurnerDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/TurnerDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4441" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphicsTabListener.java" partName="GraphicsTabListener.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/GraphicsTabListener.java" title="GraphicsTabListener.java" tooltip="Launcher/src/launcher/GraphicsTabListener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/GraphicsTabListener.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="886" selectionTopPixel="1289"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/Main.java" title="Main.java" tooltip="Launcher/src/launcher/Main.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/Main.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="852" selectionTopPixel="272"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MenuListener.java" partName="MenuListener.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/MenuListener.java" title="MenuListener.java" tooltip="Launcher/src/launcher/MenuListener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/MenuListener.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="460" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ComboItemRemovedListener.java" partName="ComboItemRemovedListener.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/ComboItemRemovedListener.java" title="ComboItemRemovedListener.java" tooltip="Launcher/src/launcher/ComboItemRemovedListener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/ComboItemRemovedListener.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="310" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="BinaryDialog.java" partName="BinaryDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/BinaryDialog.java" title="BinaryDialog.java" tooltip="Launcher/src/launcher/BinaryDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/BinaryDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="827" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="WeighedRoomDialog.java" partName="WeighedRoomDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/WeighedRoomDialog.java" title="WeighedRoomDialog.java" tooltip="Launcher/src/launcher/WeighedRoomDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/WeighedRoomDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="293" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="PrimDialog.java" partName="PrimDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/PrimDialog.java" title="PrimDialog.java" tooltip="Launcher/src/launcher/PrimDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/PrimDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="KruskalDialog.java" partName="KruskalDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/KruskalDialog.java" title="KruskalDialog.java" tooltip="Launcher/src/launcher/KruskalDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/KruskalDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1314" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="StartEndDialog.java" partName="StartEndDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/StartEndDialog.java" title="StartEndDialog.java" tooltip="Launcher/src/launcher/StartEndDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/StartEndDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="208" selectionTopPixel="0"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="LoopDialog.java" partName="LoopDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/LoopDialog.java" title="LoopDialog.java" tooltip="Launcher/src/launcher/LoopDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/LoopDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="334" selectionOffset="3209" selectionTopPixel="1139"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="WallDecoDialog.java" partName="WallDecoDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/WallDecoDialog.java" title="WallDecoDialog.java" tooltip="Launcher/src/launcher/WallDecoDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/WallDecoDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5253" selectionTopPixel="1764"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="DoorDecoDialog.java" partName="DoorDecoDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/DoorDecoDialog.java" title="DoorDecoDialog.java" tooltip="Launcher/src/launcher/DoorDecoDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/DoorDecoDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5253" selectionTopPixel="1764"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="ControlsDialog.java" partName="ControlsDialog.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/ControlsDialog.java" title="ControlsDialog.java" tooltip="Launcher/src/launcher/ControlsDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/ControlsDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="535" selectionTopPixel="135"/>
+</editor>
+<editor id="com.instantiations.designer.core.guiEditor" name="ProcessManager.java" partName="ProcessManager.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/Launcher/src/launcher/ProcessManager.java" title="ProcessManager.java" tooltip="Launcher/src/launcher/ProcessManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Launcher/src/launcher/ProcessManager.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1958" selectionTopPixel="1029"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Theseus.java" partName="Theseus.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/MazeMaker/src/mazemaker/Theseus.java" title="Theseus.java" tooltip="MazeMaker/src/mazemaker/Theseus.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MazeMaker/src/mazemaker/Theseus.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="460"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MazeMaker.java" partName="MazeMaker.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/MazeMaker/src/mazemaker/MazeMaker.java" title="MazeMaker.java" tooltip="MazeMaker/src/mazemaker/MazeMaker.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MazeMaker/src/mazemaker/MazeMaker.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DFSMaker.java" partName="DFSMaker.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/MazeMaker/src/mazemaker/DFSMaker.java" title="DFSMaker.java" tooltip="MazeMaker/src/mazemaker/DFSMaker.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MazeMaker/src/mazemaker/DFSMaker.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="31"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrimMaker.java" partName="PrimMaker.java" path="/Users/olivierlegat/Documents/Cours/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/Projects/eclipse/MazeMaker/src/mazemaker/PrimMaker.java" title="PrimMaker.java" tooltip="MazeMaker/src/mazemaker/PrimMaker.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/MazeMaker/src/mazemaker/PrimMaker.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="659"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="org.eclipse.jdt.ui.JavaSearchResultPage" org.eclipse.jdt.search.resultpage.grouping="3" org.eclipse.jdt.search.resultpage.limit="1000" org.eclipse.jdt.search.resultpage.limit_enabled="TRUE" org.eclipse.jdt.search.resultpage.sorting="1" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2"/>
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="com.instantiations.designer.core.PaletteView" partName="Palette">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Errors (1 item)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.mylyn.java.ui.MembersFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
+<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
+<sorter groupBy="CATEGORY_QUERY">
+<sorter>
+<sort0 sortDirection="1" sortKey="PRIORITY"/>
+<sort1 sortDirection="1" sortKey="RANK"/>
+<sort2 sortDirection="1" sortKey="DATE_CREATED"/>
+<sort3 sortDirection="1" sortKey="NONE"/>
+<sort4 sortDirection="1" sortKey="NONE"/>
+<sort5 sortDirection="1" sortKey="NONE"/>
+<sort6 sortDirection="1" sortKey="NONE"/>
+<sort7 sortDirection="1" sortKey="NONE"/>
+</sorter>
+</sorter>
+<filteredTreeFindHistory/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.swtdesigner.actionset"/>
+<alwaysOnActionSet id="com.instantiations.designer.gwt.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<alwaysOnActionSet id="com.google.gdt.eclipse.designer.actionset"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="com.instantiations.designer.core.StructureView"/>
+<show_view_action id="com.instantiations.designer.core.PaletteView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="com.instantiations.designer.core.PaletteView"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="com.instantiations.designer.core.PaletteView" label="Palette"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="com.instantiations.designer.core.StructureView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@5b927504" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="254" ratioRight="762" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.74963397" ratioLeft="512" ratioRight="171" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@2698dd08" ratio="0.7493438" ratioLeft="571" ratioRight="191" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.5" ratioLeft="256" ratioRight="256" relationship="4" relative="org.eclipse.ui.internal.ViewStack@2698dd08">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.swtdesigner.actionset"/>
+<alwaysOnActionSet id="com.instantiations.designer.gwt.actionset"/>
+<alwaysOnActionSet id="com.google.gdt.eclipse.designer.actionset"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1074" ratioRight="358" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7490494" ratioLeft="591" ratioRight="198" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44839254" ratioLeft="265" ratioRight="326" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1074" ratioRight="358" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="716" ratioRight="716" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Launcher/src/launcher/GeneratorTabListener.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" path="/Launcher/src/launcher/LaunchFrame.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" path="/Launcher/src/launcher/ControlsDialog.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" path="/Launcher/src/launcher/WallDecoDialog.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" path="/Launcher/src/launcher/DoorDecoDialog.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" path="/Launcher/src/launcher/LaunchFrame.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" path="/Launcher/src/launcher/ProcessManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Launcher/src/launcher/OutputTabListener.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MazeMaker/src/mazemaker/Theseus.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MazeMaker/src/mazemaker/MazeMaker.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MazeMaker/src/mazemaker/DFSMaker.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/MazeMaker/src/mazemaker/PrimMaker.java"/>
+</editors>
+<item historyLabel="LaunchFrame.java" index="1">
+<position info="not_deleted" x="2044" y="0"/>
+</item>
+<item historyLabel="GeneratorTabListener.java" index="0">
+<position info="not_deleted" x="6212" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="1">
+<position info="not_deleted" x="2044" y="0"/>
+</item>
+<item historyLabel="GeneratorTabListener.java" index="0">
+<position info="not_deleted" x="6212" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="4889" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="4886" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="5805" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="5532" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="5531" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="5532" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="678" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="885" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="535" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="678" y="0"/>
+</item>
+<item historyLabel="ControlsDialog.java" index="2">
+<position info="not_deleted" x="535" y="0"/>
+</item>
+<item historyLabel="WallDecoDialog.java" index="3">
+<position info="not_deleted" x="4221" y="0"/>
+</item>
+<item historyLabel="WallDecoDialog.java" index="3">
+<position info="not_deleted" x="3803" y="0"/>
+</item>
+<item historyLabel="DoorDecoDialog.java" index="4">
+<position info="not_deleted" x="4221" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="22442" y="0"/>
+</item>
+<item historyLabel="ProcessManager.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ProcessManager.java" index="6">
+<position info="not_deleted" x="961" y="0"/>
+</item>
+<item historyLabel="ProcessManager.java" index="6">
+<position info="not_deleted" x="1958" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="22442" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="20959" y="14"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="22146" y="6"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="22435" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="18040" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="18369" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="17570" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="18014" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="18039" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="17570" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="18039" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="19437" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="19437" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="19464" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="17570" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="19464" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="22969" y="0"/>
+</item>
+<item historyLabel="LaunchFrame.java" index="5">
+<position info="not_deleted" x="21086" y="4"/>
+</item>
+<item historyLabel="OutputTabListener.java" index="7">
+<position info="not_deleted" x="989" y="0"/>
+</item>
+<item historyLabel="Theseus.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MazeMaker.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DFSMaker.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="PrimMaker.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrimMaker.java" tooltip="MazeMaker/src/mazemaker/PrimMaker.java">
+<persistable path="/MazeMaker/src/mazemaker/PrimMaker.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DFSMaker.java" tooltip="MazeMaker/src/mazemaker/DFSMaker.java">
+<persistable path="/MazeMaker/src/mazemaker/DFSMaker.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MazeMaker.java" tooltip="MazeMaker/src/mazemaker/MazeMaker.java">
+<persistable path="/MazeMaker/src/mazemaker/MazeMaker.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Theseus.java" tooltip="MazeMaker/src/mazemaker/Theseus.java">
+<persistable path="/MazeMaker/src/mazemaker/Theseus.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="ProcessManager.java" tooltip="Launcher/src/launcher/ProcessManager.java">
+<persistable path="/Launcher/src/launcher/ProcessManager.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="ControlsDialog.java" tooltip="Launcher/src/launcher/ControlsDialog.java">
+<persistable path="/Launcher/src/launcher/ControlsDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="DoorDecoDialog.java" tooltip="Launcher/src/launcher/DoorDecoDialog.java">
+<persistable path="/Launcher/src/launcher/DoorDecoDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="WallDecoDialog.java" tooltip="Launcher/src/launcher/WallDecoDialog.java">
+<persistable path="/Launcher/src/launcher/WallDecoDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="DecoDecoDialog.java" tooltip="Launcher/src/launcher/DecoDecoDialog.java">
+<persistable path="/Launcher/src/launcher/DecoDecoDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="LoopDialog.java" tooltip="Launcher/src/launcher/LoopDialog.java">
+<persistable path="/Launcher/src/launcher/LoopDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="StartEndDialog.java" tooltip="Launcher/src/launcher/StartEndDialog.java">
+<persistable path="/Launcher/src/launcher/StartEndDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="KruskalDialog.java" tooltip="Launcher/src/launcher/KruskalDialog.java">
+<persistable path="/Launcher/src/launcher/KruskalDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="PrimDialog.java" tooltip="Launcher/src/launcher/PrimDialog.java">
+<persistable path="/Launcher/src/launcher/PrimDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.instantiations.designer.core.guiEditor" name="BinaryDialog.java" tooltip="Launcher/src/launcher/BinaryDialog.java">
+<persistable path="/Launcher/src/launcher/BinaryDialog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ComboItemRemovedListener.java" tooltip="Launcher/src/launcher/ComboItemRemovedListener.java">
+<persistable path="/Launcher/src/launcher/ComboItemRemovedListener.java"/>
+</file>
+</mruList>
+</workbench>

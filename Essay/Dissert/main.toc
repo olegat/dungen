@@ -1,0 +1,105 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}What is PCG?}{1}
+\contentsline {section}{\numberline {1.2}A short history}{1}
+\contentsline {subsection}{\numberline {1.2.1}Rogue-like games}{2}
+\contentsline {subsection}{\numberline {1.2.2}Other games}{3}
+\contentsline {section}{\numberline {1.3}Advantages}{4}
+\contentsline {section}{\numberline {1.4}Disadvantages}{4}
+\contentsline {section}{\numberline {1.5}Statement of Problem and Aims}{5}
+\contentsline {chapter}{\numberline {2}PCG Techniques}{6}
+\contentsline {section}{\numberline {2.1}Genetic algorithms}{6}
+\contentsline {subsection}{\numberline {2.1.1}Fitness function}{6}
+\contentsline {subsection}{\numberline {2.1.2}Genetic operators}{7}
+\contentsline {paragraph}{Mutation}{7}
+\contentsline {paragraph}{Cross-over}{8}
+\contentsline {section}{\numberline {2.2}Search-Based}{8}
+\contentsline {section}{\numberline {2.3}Rhythm-Based}{9}
+\contentsline {section}{\numberline {2.4}Occupancy-regulated}{10}
+\contentsline {section}{\numberline {2.5}Procedural Modelling}{11}
+\contentsline {chapter}{\numberline {3}Random Number Generation}{13}
+\contentsline {section}{\numberline {3.1}Linear Congruential Generators}{13}
+\contentsline {subsection}{\numberline {3.1.1}Recurrence relation}{13}
+\contentsline {subsubsection}{Seed}{14}
+\contentsline {subsubsection}{Period}{14}
+\contentsline {subsection}{\numberline {3.1.2}Advantages and Disadvantages}{15}
+\contentsline {paragraph}{Advantage}{15}
+\contentsline {paragraph}{Disadvantages}{15}
+\contentsline {subsection}{\numberline {3.1.3}Constraints for good LCGs}{16}
+\contentsline {subsection}{\numberline {3.1.4}Examples of good and bad LCG}{17}
+\contentsline {section}{\numberline {3.2}Alternatives}{17}
+\contentsline {subsection}{\numberline {3.2.1}Coupled Linear Congruential Generators}{17}
+\contentsline {subsection}{\numberline {3.2.2}Mersenne twister}{18}
+\contentsline {subsection}{\numberline {3.2.3}Blum Blum Shub}{18}
+\contentsline {chapter}{\numberline {4}Maze and Dungeon Generation}{19}
+\contentsline {section}{\numberline {4.1}Maze Generation}{19}
+\contentsline {subsection}{\numberline {4.1.1}Understanding Search-problems}{19}
+\contentsline {subsection}{\numberline {4.1.2}Properties of a maze}{20}
+\contentsline {paragraph}{Unicursal}{20}
+\contentsline {paragraph}{Perfect}{20}
+\contentsline {paragraph}{River}{20}
+\contentsline {paragraph}{Bias}{20}
+\contentsline {subsection}{\numberline {4.1.3}Maze generation as a search-problem}{20}
+\contentsline {subsubsection}{The Graph}{20}
+\contentsline {paragraph}{Cells (nodes)}{20}
+\contentsline {paragraph}{Walls (edges)}{20}
+\contentsline {subsubsection}{The Goal}{21}
+\contentsline {subsection}{\numberline {4.1.4}Depth-first search algorithm}{21}
+\contentsline {subsection}{\numberline {4.1.5}Prim's algorithm}{22}
+\contentsline {subsection}{\numberline {4.1.6}Kruskal's algorithm}{23}
+\contentsline {subsection}{\numberline {4.1.7}Other algorithms}{24}
+\contentsline {subsubsection}{Aldous-Broder algorithm}{24}
+\contentsline {subsubsection}{Wilson's algorithm}{25}
+\contentsline {subsubsection}{Hunt and Kill algorithm}{25}
+\contentsline {subsubsection}{Growing Tree algorithm}{25}
+\contentsline {subsubsection}{Eller's algorithm}{25}
+\contentsline {subsubsection}{Recursive Division algorithm}{25}
+\contentsline {subsubsection}{Binary Tree Mazes}{26}
+\contentsline {subsubsection}{Sidewinder Mazes}{26}
+\contentsline {section}{\numberline {4.2}Maze Post-processing}{26}
+\contentsline {subsection}{\numberline {4.2.1}Maze sparseness}{27}
+\contentsline {subsection}{\numberline {4.2.2}Adding loops}{28}
+\contentsline {subsection}{\numberline {4.2.3}Adding rooms}{29}
+\contentsline {chapter}{\numberline {5}Mesh and Collider creation}{31}
+\contentsline {section}{\numberline {5.1}Mesh Generation}{31}
+\contentsline {subsection}{\numberline {5.1.1}Procedural modelling}{31}
+\contentsline {subsection}{\numberline {5.1.2}UVW mapping}{32}
+\contentsline {subsection}{\numberline {5.1.3}Adding prefabs}{32}
+\contentsline {paragraph}{Adding prefabs on the walls}{33}
+\contentsline {paragraph}{Adding doors}{33}
+\contentsline {section}{\numberline {5.2}Colliders used}{34}
+\contentsline {subsection}{\numberline {5.2.1}Bounding Volume Hierarchy}{35}
+\contentsline {subsubsection}{Theory}{35}
+\contentsline {subsubsection}{Dividing the maze}{36}
+\contentsline {chapter}{\numberline {6}Software design and structure}{38}
+\contentsline {section}{\numberline {6.1}The Engine}{38}
+\contentsline {paragraph}{Features}{38}
+\contentsline {section}{\numberline {6.2}The Generator}{39}
+\contentsline {subsection}{\numberline {6.2.1}The Maze}{39}
+\contentsline {subsection}{\numberline {6.2.2}Graph Implementation}{39}
+\contentsline {subsection}{\numberline {6.2.3}Random Number Implementation}{41}
+\contentsline {subsection}{\numberline {6.2.4}Diggers}{42}
+\contentsline {paragraph}{DFSDigger}{42}
+\contentsline {paragraph}{PrimDigger}{42}
+\contentsline {paragraph}{KruskalDigger}{43}
+\contentsline {paragraph}{BinaryTreeDigger}{43}
+\contentsline {paragraph}{StartEndDigger}{43}
+\contentsline {paragraph}{DeadEndDigger}{43}
+\contentsline {paragraph}{LoopDigger}{43}
+\contentsline {paragraph}{RoomDigger}{43}
+\contentsline {paragraph}{WeighedRoomDigger}{43}
+\contentsline {paragraph}{WallDecoDigger}{43}
+\contentsline {paragraph}{DoorDecoDigger}{43}
+\contentsline {section}{\numberline {6.3}Launcher}{44}
+\contentsline {chapter}{\numberline {7}Conclusion}{45}
+\contentsline {chapter}{Bibliography}{47}
+\contentsline {chapter}{\numberline {A}Screen-shots}{51}
+\contentsline {chapter}{\numberline {B}Code and Class Diagrams}{53}
+\contentsline {section}{\numberline {B.1}Class Diagrams}{53}
+\contentsline {subsection}{\numberline {B.1.1}DunGen}{53}
+\contentsline {subsection}{\numberline {B.1.2}Launcher}{55}
+\contentsline {section}{\numberline {B.2}Code Listings}{55}
+\contentsline {subsection}{\numberline {B.2.1}Maze cells and walls}{55}
+\contentsline {subsection}{\numberline {B.2.2}Maze}{56}
+\contentsline {subsection}{\numberline {B.2.3}Mesh generation}{57}
+\contentsline {subsection}{\numberline {B.2.4}Number Generator}{62}
+\contentsline {subsection}{\numberline {B.2.5}Collider}{62}

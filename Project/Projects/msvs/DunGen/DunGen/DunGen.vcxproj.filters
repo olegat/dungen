@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{145bd1d2-1b05-4dd2-aec0-f9e5a8594cc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Core">
+      <UniqueIdentifier>{789e2fb9-7fe7-4aa9-ad84-fb85dc707dc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics">
+      <UniqueIdentifier>{272326a4-e6b1-4d9e-92ef-e38d7a94bba6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Input">
+      <UniqueIdentifier>{b28529ef-bba9-4ca0-8108-b6fdd700e824}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics\Camera">
+      <UniqueIdentifier>{d637911a-df25-4744-9e7d-970ac12dfb00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics\GraphicsContext">
+      <UniqueIdentifier>{11804659-267f-4c4c-9ece-60c65c5c9c83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics\Material">
+      <UniqueIdentifier>{e0a6e61c-ec3f-40f0-bd2f-e578ed72d40d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics\Mesh">
+      <UniqueIdentifier>{167bfb25-665f-4f04-90d6-3e6af47264a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics\Renderer">
+      <UniqueIdentifier>{6c07ca69-f85b-401e-9963-ef41824483e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics\Texture">
+      <UniqueIdentifier>{dcaf80e4-f5f4-4e1b-86fe-60e8a13489f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Scene">
+      <UniqueIdentifier>{1ede2e13-0ea1-4cef-87ff-89bf12c1cd3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Tools">
+      <UniqueIdentifier>{9c65d517-8f12-4f8b-bd8a-d429564466c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Core\Timing">
+      <UniqueIdentifier>{da1a30f7-d563-4b1e-aab4-d78a6b48db4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Core\Application">
+      <UniqueIdentifier>{8a3f6b20-4293-4058-8504-cdf0ee7b0291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Core\File">
+      <UniqueIdentifier>{37f89726-e38f-4bfa-bdc9-7c577f1d521f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSamples">
+      <UniqueIdentifier>{4856b645-f7a3-4bd9-9940-e3f6668d3950}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator">
+      <UniqueIdentifier>{077531f0-d4a6-4435-9947-b7e4d006a00b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSamples\Game1">
+      <UniqueIdentifier>{cba6d4a2-9a82-40e9-9298-ada69868e1cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSamples\Game1\Application">
+      <UniqueIdentifier>{ac0cc8ea-eadd-4f2c-8dfd-a5b2563edbfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Random">
+      <UniqueIdentifier>{e038039a-f5bf-4cd0-af12-5e48669638a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Parser">
+      <UniqueIdentifier>{954d01eb-982e-4bf8-815d-f63b049bdd7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\MazeMesh">
+      <UniqueIdentifier>{fe54e46d-454e-416c-91fa-0a729b172069}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\MazeCollider">
+      <UniqueIdentifier>{2a92b01a-4dad-456a-ab3c-0d7f65e94b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze">
+      <UniqueIdentifier>{714aece0-d4ea-4bfb-a4c0-d7caf9fe680c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger">
+      <UniqueIdentifier>{e0722313-c05e-4682-91a3-195f3dad31a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\MazeMesh\MeshMaker">
+      <UniqueIdentifier>{05799d90-7d4c-4123-8ccc-072a7883f6f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\Room">
+      <UniqueIdentifier>{06488e47-e349-42a5-a6f3-b327ff600773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\DFS">
+      <UniqueIdentifier>{81e367b6-bff4-49cb-9e34-5133515a1afb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\DeadEnd">
+      <UniqueIdentifier>{63afe33e-a06a-42f0-9d89-af64fc1a5b9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="soil">
+      <UniqueIdentifier>{7cf9fa43-23d4-4f0d-9b8c-4aa30a19df30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\Prim">
+      <UniqueIdentifier>{68768bd6-9172-40f0-a489-adb58cbbab8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\BinaryTree">
+      <UniqueIdentifier>{ee7f75f6-faee-4f6e-96f7-1c6fd4cded49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\Kruskal">
+      <UniqueIdentifier>{7a84c5b2-5007-4252-88db-60a2b2da9e69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\StartEnd">
+      <UniqueIdentifier>{fe0312f4-0bd5-470f-b876-1f4da33150bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\Loop">
+      <UniqueIdentifier>{63813e10-c1e6-44cf-a580-a32f59b1c684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Graphics\Mesh\OBJLoader">
+      <UniqueIdentifier>{24a1a018-d9dc-4dd4-8584-2c4e68622624}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator\Maze\Digger\Deco">
+      <UniqueIdentifier>{d338560f-3355-4bc8-b329-a6b7d3beda29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\src\Engine\Core\Application\ArgParser.cpp">
+      <Filter>Engine\Core\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Core\Application\EngineApplication.cpp">
+      <Filter>Engine\Core\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Core\File\File.cpp">
+      <Filter>Engine\Core\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Core\Timing\Timing.cpp">
+      <Filter>Engine\Core\Timing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Camera\Camera.cpp">
+      <Filter>Engine\Graphics\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\GraphicsContext\GraphicsContext.cpp">
+      <Filter>Engine\Graphics\GraphicsContext</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Material\Material.cpp">
+      <Filter>Engine\Graphics\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\Mesh.cpp">
+      <Filter>Engine\Graphics\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Renderer\Renderer.cpp">
+      <Filter>Engine\Graphics\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Renderer\RenderPipeline.cpp">
+      <Filter>Engine\Graphics\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Texture\Texture.cpp">
+      <Filter>Engine\Graphics\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Input\Keyboard.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Input\Mouse.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Input\Input.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Scene\SceneObject.cpp">
+      <Filter>Engine\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Scene\SceneSpace.cpp">
+      <Filter>Engine\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Scene\SceneDynamic.cpp">
+      <Filter>Engine\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Tools\Math.cpp">
+      <Filter>Engine\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\GameSamples\Game1\Application\Game1Logic.cpp">
+      <Filter>GameSamples\Game1\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\GameSamples\Game1\Application\Game1App.cpp">
+      <Filter>GameSamples\Game1\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MazeMesh.cpp">
+      <Filter>Generator\MazeMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\MeshMaker.cpp">
+      <Filter>Generator\MazeMesh\MeshMaker</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\VertexFactory.cpp">
+      <Filter>Generator\MazeMesh\MeshMaker</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\BasicMeshMaker.cpp">
+      <Filter>Generator\MazeMesh\MeshMaker</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Parser\ProfileParser.cpp">
+      <Filter>Generator\Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Random\RandomElement.cpp">
+      <Filter>Generator\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Random\RandomTurner.cpp">
+      <Filter>Generator\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Random\UniformRandom.cpp">
+      <Filter>Generator\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Random\DiggerDependant.cpp">
+      <Filter>Generator\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Random\Random.cpp">
+      <Filter>Generator\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\MazeCollider\MazeCollider.cpp">
+      <Filter>Generator\MazeCollider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\MazeCollider\MazeBVH.cpp">
+      <Filter>Generator\MazeCollider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\MazeCollider\MazeBVHNode.cpp">
+      <Filter>Generator\MazeCollider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\MazeCell.cpp">
+      <Filter>Generator\Maze</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\MazeWall.cpp">
+      <Filter>Generator\Maze</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Maze.cpp">
+      <Filter>Generator\Maze</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Digger.cpp">
+      <Filter>Generator\Maze\Digger</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Room\RoomDigger.cpp">
+      <Filter>Generator\Maze\Digger\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\DFS\DFSDigger.cpp">
+      <Filter>Generator\Maze\Digger\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\DeadEnd\DeadEndDigger.cpp">
+      <Filter>Generator\Maze\Digger\DeadEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>GameSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\include\c++\Object.cpp" />
+    <ClCompile Include="..\..\..\..\lib\src\soil\SOIL.c">
+      <Filter>soil</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lib\src\soil\stb_image_aug.c">
+      <Filter>soil</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lib\src\soil\image_DXT.c">
+      <Filter>soil</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lib\src\soil\image_helper.c">
+      <Filter>soil</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\BinaryTree\BinaryTreeDigger.cpp">
+      <Filter>Generator\Maze\Digger\BinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalDigger.cpp">
+      <Filter>Generator\Maze\Digger\Kruskal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalEdge.cpp">
+      <Filter>Generator\Maze\Digger\Kruskal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\SpanningTree.cpp">
+      <Filter>Generator\Maze\Digger\Kruskal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Prim\PrimDigger.cpp">
+      <Filter>Generator\Maze\Digger\Prim</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Room\WeighedRoomDigger.cpp">
+      <Filter>Generator\Maze\Digger\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\StartEnd\StartEndDigger.cpp">
+      <Filter>Generator\Maze\Digger\StartEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Loop\LoopDigger.cpp">
+      <Filter>Generator\Maze\Digger\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\list.cpp">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\obj_parser.cpp">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\objTester.cpp">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\string_extra.cpp">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\ObjLoader.cpp">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\ExternalMeshDigger.cpp">
+      <Filter>Generator\Maze\Digger</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\WeightFile.cpp">
+      <Filter>Generator\Maze\Digger</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Deco\WallDecoDigger.cpp">
+      <Filter>Generator\Maze\Digger\Deco</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\Generator\Maze\Digger\Deco\DoorDecoDigger.cpp">
+      <Filter>Generator\Maze\Digger\Deco</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Application\ArgParser.h">
+      <Filter>Engine\Core\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Application\EngineApplication.h">
+      <Filter>Engine\Core\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Application\GameLogic.h">
+      <Filter>Engine\Core\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Core\File\File.h">
+      <Filter>Engine\Core\File</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Timing\Timing.h">
+      <Filter>Engine\Core\Timing</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Core\Core.h">
+      <Filter>Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Camera\Camera.h">
+      <Filter>Engine\Graphics\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\GraphicsContext\GraphicsContext.h">
+      <Filter>Engine\Graphics\GraphicsContext</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Material\Material.h">
+      <Filter>Engine\Graphics\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\Mesh.h">
+      <Filter>Engine\Graphics\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Renderer\Renderer.h">
+      <Filter>Engine\Graphics\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Renderer\RenderPipeline.h">
+      <Filter>Engine\Graphics\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Texture\Texture.h">
+      <Filter>Engine\Graphics\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Graphics.h">
+      <Filter>Engine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Input\Input.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Input\Keyboard.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Input\Mouse.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\SceneObject.h">
+      <Filter>Engine\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\SceneSpace.h">
+      <Filter>Engine\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\Scene.h">
+      <Filter>Engine\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Scene\SceneDynamic.h">
+      <Filter>Engine\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Tools\Math.h">
+      <Filter>Engine\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Tools\Tools.h">
+      <Filter>Engine\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Engine.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\GameSamples\Game1\Application\Game1Logic.h">
+      <Filter>GameSamples\Game1\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\GameSamples\Game1\Application\Game1App.h">
+      <Filter>GameSamples\Game1\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MazeMesh.h">
+      <Filter>Generator\MazeMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\BasicMeshMaker.h">
+      <Filter>Generator\MazeMesh\MeshMaker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\MeshMaker.h">
+      <Filter>Generator\MazeMesh\MeshMaker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\MazeMesh\MeshMaker\VertexFactory.h">
+      <Filter>Generator\MazeMesh\MeshMaker</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Parser\ProfileParser.h">
+      <Filter>Generator\Parser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Random\Random.h">
+      <Filter>Generator\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Random\RandomElement.h">
+      <Filter>Generator\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Random\RandomTurner.h">
+      <Filter>Generator\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Random\UniformRandom.h">
+      <Filter>Generator\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Random\DiggerDependant.h">
+      <Filter>Generator\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Generator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\MazeCollider\MazeBVHNode.h">
+      <Filter>Generator\MazeCollider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\MazeCollider\MazeCollider.h">
+      <Filter>Generator\MazeCollider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\MazeCollider\MazeBVH.h">
+      <Filter>Generator\MazeCollider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Maze.h">
+      <Filter>Generator\Maze</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\MazeCell.h">
+      <Filter>Generator\Maze</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\MazeWall.h">
+      <Filter>Generator\Maze</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Digger.h">
+      <Filter>Generator\Maze\Digger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\PathLogger.h">
+      <Filter>Generator\Maze\Digger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Room\RoomDigger.h">
+      <Filter>Generator\Maze\Digger\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\DFS\DFSDigger.h">
+      <Filter>Generator\Maze\Digger\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\DeadEnd\DeadEndDigger.h">
+      <Filter>Generator\Maze\Digger\DeadEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\BinaryTree\BinaryTreeDigger.h">
+      <Filter>Generator\Maze\Digger\BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalDigger.h">
+      <Filter>Generator\Maze\Digger\Kruskal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\KruskalEdge.h">
+      <Filter>Generator\Maze\Digger\Kruskal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Kruskal\SpanningTree.h">
+      <Filter>Generator\Maze\Digger\Kruskal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Prim\PrimDigger.h">
+      <Filter>Generator\Maze\Digger\Prim</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Room\WeighedRoomDigger.h">
+      <Filter>Generator\Maze\Digger\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\StartEnd\StartEndDigger.h">
+      <Filter>Generator\Maze\Digger\StartEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Loop\LoopDigger.h">
+      <Filter>Generator\Maze\Digger\Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\list.h">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\obj_parser.h">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\string_extra.h">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\OBJLoader\ObjLoader.h">
+      <Filter>Engine\Graphics\Mesh\OBJLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Engine\Graphics\Mesh\vertexTexcoords.h">
+      <Filter>Engine\Graphics\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\ExternalMeshDigger.h">
+      <Filter>Generator\Maze\Digger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\WeightFile.h">
+      <Filter>Generator\Maze\Digger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Deco\WallDecoDigger.h">
+      <Filter>Generator\Maze\Digger\Deco</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\Generator\Maze\Digger\Deco\DoorDecoDigger.h">
+      <Filter>Generator\Maze\Digger\Deco</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>

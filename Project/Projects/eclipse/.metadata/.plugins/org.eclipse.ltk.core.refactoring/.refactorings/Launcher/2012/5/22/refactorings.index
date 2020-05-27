@@ -1,0 +1,23 @@
+1338115804664	Rename local variable 'retval'
+1338120288081	Rename field 'forceStop'
+1338124969127	Rename method 'doReset'
+1338300969038	Rename field 'output_file'
+1338305736519	Rename compilation unit 'ProfileManager.java'
+1338310291899	Rename compilation unit 'DFSPopup.java'
+1338311356714	Delete element
+1338311360805	Delete element
+1338311485250	Rename type 'Digger'
+1338312724150	Rename local variable 'title2'
+1338312729609	Rename local variable 'title'
+1338315150209	Rename type 'RoomDigger'
+1338315256277	Rename field 'comboBox'
+1338363535002	Rename field 'textField'
+1338363541195	Rename field 'spareness_label'
+1338365727893	Rename type 'DiggerDialog'
+1338389663101	Rename local variable 'dfs'
+1338389684154	Rename local variable 'dfs'
+1338391008632	Rename local variable 'dfs'
+1338463154823	Delete element
+1338463222750	Delete element
+1338465906396	Rename method 'appleHax'
+1338473550509	Rename method 'addListeners'

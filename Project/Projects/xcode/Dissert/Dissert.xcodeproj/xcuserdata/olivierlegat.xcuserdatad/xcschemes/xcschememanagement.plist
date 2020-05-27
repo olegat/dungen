@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DunGen.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Game1 copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Game1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>dungen.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1C2D6ADB15722A7C00724C17</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C3D236F1572335F0069B46E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C3D23AF157233B90069B46E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1CA0D470152F3D5B00B8BBCD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1CA0D491152F3D5C00B8BBCD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1CAB95A515722B55009BBDF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

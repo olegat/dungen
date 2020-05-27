@@ -1,0 +1,1 @@
+../makejar -p mazemaker -j MazeMaker.jar -m mazemaker.MazeMain

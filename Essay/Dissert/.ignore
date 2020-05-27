@@ -1,0 +1,17 @@
+.ignore
+main.aux
+main.bbl
+main.pdf
+main.log
+main.toc
+pcgtech.aux
+dungen.aux
+numbergen.aux
+main.blg
+intro.aux
+appendix.aux
+conclusion.aux
+software.aux
+meshCollider.aux
+texput.log
+CoverSheet.pdf

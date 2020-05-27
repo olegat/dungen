@@ -1,0 +1,5 @@
+jar=Launcher.jar
+bin=../../../bin
+
+../makejar -p launcher -j $jar -m launcher.Main
+cp $jar ${bin}/$jar

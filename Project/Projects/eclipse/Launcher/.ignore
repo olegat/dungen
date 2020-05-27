@@ -1,0 +1,11 @@
+.ignore
+.project
+.settings
+.classpath
+bin
+dungen
+test1.png
+test2.png
+default.dungenprofile
+myprofile.dungenprofile
+temp.dungenprofile

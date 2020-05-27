@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 31.07.2012 20:41:51
+
+mtllib data/deco/monalisa/monalisa.mtl
+
+#
+# object Plane001
+#
+
+v  -0.1895 0.7641 0.0515
+v  -0.1895 0.2503 0.0515
+v  0.1895 0.7641 0.0515
+v  0.1895 0.2503 0.0515
+# 4 vertices
+
+vn 0.0000 -0.0000 1.0000
+# 1 vertex normals
+
+vt 0.0000 1.0000 0.0000
+vt 0.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+vt 1.0000 0.0000 0.0000
+# 4 texture coords
+
+g Plane001
+usemtl 01___Default
+s 1
+f 1/1/1 2/2/1 3/3/1 
+f 4/4/1 3/3/1 2/2/1 
+# 2 faces
+

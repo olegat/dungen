@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.instantiations.designer.core.model.property.editor.string.StringPropertyDialog">
+		<item value="307" key="height"/>
+		<item value="504" key="width"/>
+		<item value="305" key="y"/>
+		<item value="468" key="x"/>
+	</section>
+	<section name="com.instantiations.designer.core.editor.palette.dialogs.CategoryAddDialog">
+	</section>
+	<section name="com.instantiations.designer.core.nls.ui.NLS_Dialog">
+		<item value="437" key="height"/>
+		<item value="720" key="width"/>
+		<item value="240" key="y"/>
+		<item value="360" key="x"/>
+	</section>
+</section>

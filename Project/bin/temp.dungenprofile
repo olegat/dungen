@@ -1,0 +1,62 @@
+RandomCount:2
+{
+	UniformRandom
+	{
+	}
+	RandomTurner
+	{
+		RandomI:0
+		RandomF:0
+		LeftProb:0.15
+		RightProb:0.15
+	}
+}
+DiggerCount:7
+{
+	DFSDigger
+	{
+		RandomI:1
+	}
+	StartEndDigger
+	{
+	}
+	DeadEndDigger
+	{
+		Sparseness:25
+	}
+	LoopDigger
+	{
+		RandomI:0
+		RandomF:0
+		RemoveProb:0.8
+	}
+	WeighedRoomDigger
+	{
+		MinRoomSize:3
+		MaxRoomSize:6
+		RoomSizeRandomI:0
+		MinRoomPos:0
+		MaxRoomPos:29
+		RoomPosRandomI:0
+		MinNRooms:5
+		MaxNRooms:7
+		NRoomRandomI:0
+		PenaltyOnRoom:100
+		PenaltyOnCorridor:3
+		PenaltyTouchingCorridor:1
+	}
+	DoorDecoDigger
+	{
+		RandomI:0
+		RandomF:0
+		Density:0.2
+		Filename:data/deco/door.txt
+	}
+	WallDecoDigger
+	{
+		RandomI:0
+		RandomF:0
+		Density:0.2
+		Filename:data/deco/deco.txt
+	}
+}

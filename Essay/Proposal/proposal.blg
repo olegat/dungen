@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: proposal.aux
+The style file: apalike.bst
+Database file #1: MyBib.bib
+Warning--empty journal in Nitsche-CaseStudy
+You've used 20 entries,
+            1935 wiz_defined-function locations,
+            626 strings with 9739 characters,
+and the built_in function-call counts, 10001 in all, are:
+= -- 941
+> -- 503
+< -- 21
++ -- 169
+- -- 163
+* -- 850
+:= -- 1668
+add.period$ -- 68
+call.type$ -- 20
+change.case$ -- 160
+chr.to.int$ -- 18
+cite$ -- 21
+duplicate$ -- 402
+empty$ -- 677
+format.name$ -- 199
+if$ -- 2073
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 19
+newline$ -- 101
+num.names$ -- 75
+pop$ -- 170
+preamble$ -- 1
+purify$ -- 161
+quote$ -- 0
+skip$ -- 309
+stack$ -- 0
+substring$ -- 623
+swap$ -- 108
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 1
+while$ -- 75
+width$ -- 0
+write$ -- 269
+(There was 1 warning)

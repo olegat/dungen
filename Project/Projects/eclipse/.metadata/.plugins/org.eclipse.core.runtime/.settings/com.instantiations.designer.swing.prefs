@@ -1,0 +1,7 @@
+#Sat May 26 17:16:10 GST 2012
+variable.fieldInitializer.fieldModifier=2
+variable.fieldUnique.fieldModifier=2
+eclipse.preferences.version=1
+variable.fieldUnique.prefixThis=true
+codeGeneration.statementId=com.instantiations.designer.core.model.statement.block
+codeGeneration.variableId=com.instantiations.designer.core.model.variable.fieldUnique

@@ -1,0 +1,127 @@
+\documentclass[a4paper]{report}
+%\usepackage[textwidth=18cm,textheight=23cm]{geometry}
+%\usepackage[textwidth=15.5cm,textheight=23cm]{geometry}
+\usepackage{geometry}
+\usepackage[square]{natbib}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{enumerate}
+\usepackage{parskip}
+\usepackage{amsmath}
+\usepackage{pdfpages}
+\linespread{1.5}
+
+%\setlength{\hoffset}{0.49606in}
+%\setlength{\hoffset}{1.26cm}
+\geometry{left=3.8cm, bottom=2cm, top=2cm, right=2cm}
+
+\definecolor{lightlightgray}{gray}{0.9}
+
+\newcommand{\modulo}{ \, \textbf{mod} \, }
+\newcommand{\bigo}[1]{ \mathcal{O} (#1)}
+\newcommand{\degree}{\ensuremath{^\circ}}
+
+\newcommand{\lstAlgo} {
+	\lstset{
+		language=C,
+		backgroundcolor=\color{white},
+		basicstyle=\small,
+		keywordstyle=\color{blue},
+		commentstyle=\color{OliveGreen},
+		stringstyle=\color{red},
+		tabsize=4,
+		captionpos=t,
+		title=\lstname,
+		frame=single,
+		lineskip={-0.3pt},
+		morekeywords={endif, then, call, func, endfunc, proc, endproc, foreach, endfor, endwhile, AND, OR, NOR, XOR}
+	}
+}
+\newcommand{\lstCpp}{
+	\lstset{
+		language=C++,
+		backgroundcolor=\color{lightlightgray},
+		basicstyle=\ttfamily\scriptsize,
+		keywordstyle=\color{blue},
+		commentstyle=\color{OliveGreen},
+		stringstyle=\color{red},
+		tabsize=4,
+		captionpos=t,
+		title=\lstname,
+		frame=single,
+		lineskip={-0.3pt},
+		breaklines=true
+	}
+}
+
+%\newcommand{\lstcodewd}[1]{\hspace{4ex} \frame{\footnotesize\emph{#1}}}
+
+\begin{document}
+% Old cover page
+%\title{\textbf{CMPMP2Y --- MSc Dissertation: \\ Procedural Generation of Dungeons}}
+%\author{Olivier Legat \\ (Supervisor: Prof. Andy Day)}
+%\maketitle
+
+% New cover page
+\includepdf[pages=1]{CoverSheet.pdf}
+
+\begin{abstract}
+The use of procedural content generation (PCG) is not un-common amongst games, it appears in many applications. PCG algorithms notably present the advantage of providing potentially infinite and un-predictable content for the players, which can significantly add value to the game. However, implementing a good PCG algorithm that generates convincing results is not a trivial task. PCG revolves around the concept of randomness that is usually implemented by using pseudo-random number generators. Different PCG methods can be used to create content for specific kinds of environments. These methods can vary greatly depending on the type of environment desired. This thesis focuses on generating content for dungeon-like or maze-like environments by identifying the most suitable methods and algorithms. The methods used for generating maze involve finding a random spanning tree of a graph, hence the Prim's and Kruskal's algorithms can be used. Further on, we can obtain a dungeon-like environment from a maze by applying modifications to it such as adding loops and rooms.
+\end{abstract}
+
+\setcounter{page}{1}
+\pagenumbering{roman}
+
+\pagebreak
+\chapter*{Acknowledgement}
+\begin{quotation}
+This dissertation would have never been completed if not for the help of several people who offered their services and help to me.
+\end{quotation}
+\begin{quotation}
+First and foremost, I would like to thank my parents, Thierry and Carol whom I hold dearly to me, for their love, their financial and moral support, and for never losing faith in me throughout the year despite the circumstances.
+\end{quotation}
+\begin{quotation}
+I would like to express my deepest gratitude to my supervisor Professor Andy Day for accepting my self-proposed topic without a second doubt and later providing his advice, guidance and feedback on my progress.
+\end{quotation}
+\begin{quotation}
+I would also like the thank Dr. Wenjia Wang, the MSc Dissertation Module organiser, who has taught me how to write a proper MSc thesis. His help was a valuable asset to completing my work on time. 
+\end{quotation}
+\begin{quotation}
+I want to thank Dr. Rudy Lapeer and Dr Stephen Laycock for teaching me all there is to know about Graphics, Rendering and Real-time Virtual Environments.
+\end{quotation}
+\begin{quotation}
+I send my humble thanks to Abiishiek Vijaykumar for spending many hours thoroughly proof-reading my entire dissertation. Without his help this write-up would have certainly not met to the standard of a MSc Dissertation.
+\end{quotation}
+\begin{quotation}
+I would like to thank all my fellow friends in Norwich whom have stood with me through the tough times, helped me in every way they could and given me the strength to keep going.
+\end{quotation}
+
+% Table of Contents Page(s)
+\pagebreak
+\tableofcontents
+\pagebreak
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+\include{intro}
+\include{pcgtech}
+\include{numbergen}
+\include{dungen}
+\include{meshCollider}
+\include{software}
+\include{conclusion}
+
+\pagebreak
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{apalike}
+\bibliography{MyBib}
+
+\pagebreak
+\appendix
+\include{appendix}
+
+\end{document}

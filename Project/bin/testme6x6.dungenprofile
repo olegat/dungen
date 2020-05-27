@@ -1,0 +1,41 @@
+RandomCount:1
+{
+	UniformRandom
+	{
+		Seed:1
+	}
+}
+DiggerCount:6
+{
+	DFSDigger
+	{
+		RandomI:0
+	}
+	StartEndDigger
+	{
+	}
+	DeadEndDigger
+	{
+		Sparseness:3
+	}
+	LoopDigger
+	{
+		RandomI:0
+		RandomF:0
+		RemoveProb:1
+	}
+	DoorDecoDigger
+	{
+		RandomI:0
+		RandomF:0
+		Density:1
+		Filename:data/deco/door.txt
+	}
+	WallDecoDigger
+	{
+		RandomI:0
+		RandomF:0
+		Density:0.2
+		Filename:data/deco/deco.txt
+	}
+}

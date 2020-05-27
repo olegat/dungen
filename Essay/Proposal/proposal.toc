@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Purpose and motivation}{3}
+\contentsline {subsection}{\numberline {1.2}Statement of problem}{3}
+\contentsline {subsection}{\numberline {1.3}Aim and objectives}{4}
+\contentsline {section}{\numberline {2}Short history}{4}
+\contentsline {section}{\numberline {3}Literature review}{5}
+\contentsline {subsection}{\numberline {3.1}Genetic algorithms}{5}
+\contentsline {subsubsection}{\numberline {3.1.1}Fitness function}{5}
+\contentsline {subsubsection}{\numberline {3.1.2}Genetic operators}{6}
+\contentsline {paragraph}{Mutation}{6}
+\contentsline {paragraph}{Cross-over}{6}
+\contentsline {subsubsection}{\numberline {3.1.3}Search-Based}{6}
+\contentsline {subsection}{\numberline {3.2}Occupancy-regulated}{7}
+\contentsline {subsection}{\numberline {3.3}Rhythm-Based}{8}
+\contentsline {subsection}{\numberline {3.4}Procedural Modelling}{8}
+\contentsline {section}{\numberline {4}Evaluation}{9}
+\contentsline {subsection}{\numberline {4.1}Focus}{9}
+\contentsline {subsection}{\numberline {4.2}Work-plan}{10}
+\contentsline {subsection}{\numberline {4.3}Risk analysis}{10}
+\contentsline {section}{\numberline {5}Conclusion}{11}
+\contentsline {section}{\numberline {A}Appendix}{12}

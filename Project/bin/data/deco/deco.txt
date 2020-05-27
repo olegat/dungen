@@ -1,0 +1,6 @@
+1:data/deco/monalisa/monalisa.obj
+4:data/deco/skull/skull.obj
+1:data/deco/lorrain/lorrain.obj
+1:data/deco/paintingSmall/paintingSmall.obj
+1:data/deco/scream/scream.obj
+1:data/deco/vanloo/vanloo.obj

@@ -1,0 +1,6 @@
+#Sat May 26 20:26:55 GST 2012
+variable.fieldUnique.fieldModifier=2
+eclipse.preferences.version=1
+variable.fieldUnique.prefixThis=true
+codeGeneration.statementId=org.eclipse.wb.core.model.statement.block
+codeGeneration.variableId=org.eclipse.wb.core.model.variable.fieldUnique

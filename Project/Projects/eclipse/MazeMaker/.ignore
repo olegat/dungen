@@ -1,0 +1,7 @@
+.ignore
+.metadata
+MazeMaker.jar
+.classpath
+.project
+.settings
+bin

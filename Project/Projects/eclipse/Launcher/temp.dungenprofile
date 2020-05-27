@@ -1,0 +1,37 @@
+RandomCount:1
+{
+	UniformRandom
+	{
+		Seed:2
+	}
+}
+DiggerCount:4
+{
+	DFSDigger
+	{
+		RandomI:0
+	}
+	DeadEndDigger
+	{
+		Sparseness:10
+	}
+	RoomDigger
+	{
+		MinRoomSize:2
+		MaxRoomSize:3
+		RoomSizeRandomI:0
+		MinRoomPos:0
+		MaxRoomPos:15
+		RoomPosRandomI:0
+		MinNRooms:2
+		MaxNRooms:4
+		NRoomRandomI:0
+	}
+	WallDecoDigger
+	{
+		RandomI:0
+		RandomF:0
+		Density:0.2
+		Filename:/Users/olivierlegat/Documents/Cours/Archive/CMPSMP2Y/Semester2/svn_Project/Dissert42/trunk/Project/bindata/deco/deco.txt
+	}
+}
