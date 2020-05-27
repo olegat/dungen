@@ -1,4 +1,4 @@
-# uea-dissertation
+# Procedural Generation of Dungeons
 Dissertation project from my MSc at University of East Anglia (2011-2012)
  
 The source for this was initially hosted on XP-Dev.com (which no longer
